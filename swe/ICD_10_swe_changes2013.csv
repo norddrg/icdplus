@@ -1,0 +1,318 @@
+IN/OUT;CODE;D_CODE;CODE_W;D_CODE_W;AST;TEXT;USEDATE;RELDATE
+OUT;C811;;;;;Klassiskt Hodgkins lymfom med nodul„r skleros;;31.12.2012
+IN;C811;;;;;Hodgkins lymfom (klassiskt) med nodul„r skleros;1.1.2013;
+OUT;C812;;;;;Klassiskt Hodgkins lymfom med blandad cellularitet;;31.12.2012
+IN;C812;;;;;Hodgkins lymfom (klassiskt) med blandad cellularitet;1.1.2013;
+OUT;C813;;;;;Lymfocytfattigt klassiskt Hodgkins lymfom;;31.12.2012
+IN;C813;;;;;Lymfocytfattigt (klassiskt) Hodgkins lymfom;1.1.2013;
+OUT;C814;;;;;Lymfocytrikt klassiskt Hodgkins lymfom;;31.12.2012
+IN;C814;;;;;Lymfocytrikt (klassiskt) Hodgkins lymfom;1.1.2013;
+OUT;C817;;;;;Annan typ av klassiskt Hodgkins lymfom;;31.12.2012
+IN;C817;;;;;Annan typ av (klassiskt) Hodgkins lymfom;1.1.2013;
+IN;I480;;;;;Paroxysmalt f”rmaksflimmer;1.1.2013;
+IN;I481;;;;;Persisterande f”rmaksflimmer;1.1.2013;
+IN;I482;;;;;Kroniskt f”rmaksflimmer;1.1.2013;
+IN;I483;;;;;Typiskt f”rmaksfladder;1.1.2013;
+IN;I484;;;;;Atypiskt f”rmaksfladder;1.1.2013;
+OUT;I489;;;;;F”rmaksflimmer och f”rmaksfladder;;31.12.2012
+IN;I489;;;;;F”rmaksflimmer och f”rmaksfladder, ospecificerat;1.1.2013;
+OUT;I489A;;;;;F”rmaksflimmer, kroniskt;;31.12.2012
+IN;I489A;;;;;Deleted 2012/12/31 - F”rmaksflimmer, kroniskt;1.1.2013;
+OUT;I489B;;;;;F”rmaksflimmer, paroxysmalt;;31.12.2012
+IN;I489B;;;;;Deleted 2012/12/31 - F”rmaksflimmer, paroxysmalt;1.1.2013;
+OUT;I489C;;;;;F”rmaksfladder,kroniskt;;31.12.2012
+IN;I489C;;;;;Deleted 2012/12/31 - F”rmaksfladder, kroniskt;1.1.2013;
+OUT;I489D;;;;;F”rmaksfladder, paroxysmalt;;31.12.2012
+IN;I489D;;;;;Deleted 2012/12/31 - F”rmaksfladder, paroxysmalt;1.1.2013;
+OUT;I489E;;;;;F”rmaksflimmerfladder, kroniskt;;31.12.2012
+IN;I489E;;;;;Deleted 2012/12/31 - F”rmaksflimmerfladder, kroniskt;1.1.2013;
+OUT;I489F;;;;;F”rmaksflimmerfladder, paroxysmalt;;31.12.2012
+IN;I489F;;;;;Deleted 2012/12/31 - F”rmaksflimmerfladder, paroxysmalt;1.1.2013;
+IN;I726;;;;;Aneurysm och dissektion i arteria vertebralis;1.1.2013;
+OUT;I840;;;;;Inre trombotiserade hemorrojder;;31.12.2012
+IN;I840;;;;;Deleted 2012/12/31 - Inre trombotiserade hemorrojder;1.1.2013;
+OUT;I841;;;;;Inre hemorrojder med andra komplikationer;;31.12.2012
+IN;I841;;;;;Deleted 2012/12/31 - Inre hemorrojder med andra komplikationer;1.1.2013;
+OUT;I842;;;;;Inre hemorrojder utan komplikation;;31.12.2012
+IN;I842;;;;;Deleted 2012/12/31 - Inre hemorrojder utan komplikation;1.1.2013;
+OUT;I843;;;;;Yttre trombotiserade hemorrojder;;31.12.2012
+IN;I843;;;;;Deleted 2012/12/31 - Yttre trombotiserade hemorrojder;1.1.2013;
+OUT;I844;;;;;Yttre hemorrojder med andra komplikationer;;31.12.2012
+IN;I844;;;;;Deleted 2012/12/31 - Yttre hemorrojder med andra komplikationer;1.1.2013;
+OUT;I845;;;;;Yttre hemorrojder utan komplikation;;31.12.2012
+IN;I845;;;;;Deleted 2012/12/31 - Yttre hemorrojder utan komplikation;1.1.2013;
+OUT;I846;;;;;Kvarvarande hemorrojdhudflikar;;31.12.2012
+IN;I846;;;;;Deleted 2012/12/31 - Kvarvarande hemorrojdhudflikar;1.1.2013;
+OUT;I847;;;;;Trombotiserade hemorrojder ej specificerade som inre eller yttre;;31.12.2012
+IN;I847;;;;;Deleted 2012/12/31 - Trombotiserade hemorrojder ej specificerade som inre eller yttre;1.1.2013;
+OUT;I848;;;;;Hemorrojder ej specificerade som inre eller yttre med andra komplikationer;;31.12.2012
+IN;I848;;;;;Deleted 2012/12/31 - Hemorrojder ej specificerade som inre eller yttre med andra komplikationer;1.1.2013;
+OUT;I849;;;;;Hemorrojder ej specificerade som inre eller yttre utan uppgift om komplikation;;31.12.2012
+IN;I849;;;;;Deleted 2012/12/31 - Hemorrojder ej specificerade som inre eller yttre utan uppgift om komplikation;1.1.2013;
+IN;J9600;;;;;Akut respiratorisk insufficiens, hypoxi utan hyperkapn‚;1.1.2013;
+IN;J9601;;;;;Akut respiratorisk insufficiens, hypoxi med hyperkapn‚;1.1.2013;
+IN;J9609;;;;;Akut respiratorisk insufficiens, typ ospecificerad;1.1.2013;
+IN;J9610;;;;;Kronisk respiratorisk insufficiens, hypoxi utan hyperkapn‚;1.1.2013;
+IN;J9611;;;;;Kronisk respiratorisk insufficiens, hypoxi med hyperkapn‚;1.1.2013;
+IN;J9619;;;;;Kronisk respiratorisk insufficiens, typ ospecificerad;1.1.2013;
+IN;J9690;;;;;Respiratorisk insufficiens, ospecificerad, hypoxi utan hyperkapn‚;1.1.2013;
+IN;J9691;;;;;Respiratorisk insufficiens, ospecificerad, hypoxi med hyperkapn‚;1.1.2013;
+IN;J9699;;;;;Respiratorisk insufficiens, ospecificerad, typ ospecificerad;1.1.2013;
+IN;K025;;;;;Karies med exponerad pulpa;1.1.2013;
+OUT;K210;;;;;Gastroesofagal refluxsjukdom med esofagit;;31.12.2012
+IN;K210;;;;;Gastroesofageal refluxsjukdom med esofagit;1.1.2013;
+OUT;K219;;;;;Gastroesofagal refluxsjukdom utan esofagit;;31.12.2012
+IN;K219;;;;;Gastroesofageal refluxsjukdom utan esofagit;1.1.2013;
+OUT;K226;;;;;Gastroesofagalt lacerationssyndrom med bl”dning;;31.12.2012
+IN;K226;;;;;Gastroesofagealt lacerationssyndrom med bl”dning;1.1.2013;
+IN;K640;;;;;Hemorrojder av f”rsta graden;1.1.2013;
+IN;K641;;;;;Hemorrojder av andra graden;1.1.2013;
+IN;K642;;;;;Hemorrojder av tredje graden;1.1.2013;
+IN;K643;;;;;Hemorrojder av fj„rde graden;1.1.2013;
+IN;K644;;;;;Kvarvarande hemorrojdflikar;1.1.2013;
+IN;K645;;;;;Perianal ven”s trombos;1.1.2013;
+IN;K648;;;;;Andra specificerade hemorrojder;1.1.2013;
+IN;K649;;;;;Hemorrojder, ospecificerade;1.1.2013;
+OUT;L412;;;;;Lymfomatoid papulos;;31.12.2012
+IN;L412;;;;;Deleted 2012/12/31 - Lymfomatoid papulos;1.1.2013;
+IN;L988E;;;;;Hud”verskott;1.1.2013;
+OUT;Q391;;;;;Atresi av esofagus med trakeo-esofagal fistel;;31.12.2012
+IN;Q391;;;;;Atresi av esofagus med trakeoesofageal fistel;1.1.2013;
+OUT;Q392;;;;;Medf”dd trakeo-esofagal fistel utan atresi;;31.12.2012
+IN;Q392;;;;;Medf”dd trakeoesofageal fistel utan atresi;1.1.2013;
+OUT;R198W;;;;;Annat specificeratsymtom fr†n matsm„ltningsorganen och buken;;31.12.2012
+IN;R198W;;;;;Annat specificerat symtom fr†n matsm„ltningsorganen och buken;1.1.2013;
+IN;R950;;;;;Pl”tslig sp„dbarnsd”d med uppgift om obduktion;1.1.2013;
+OUT;R959;;;;;Pl”tslig sp„dbarnsd”d;;31.12.2012
+IN;R959;;;;;Pl”tslig sp„dbarnsd”d utan uppgift om obduktion;1.1.2013;
+OUT;S071;;;;;Kl„mskada i h†rbotten;;31.12.2012
+IN;S071;;;;;Kl„mskada p† skallen;1.1.2013;
+IN;U060;;;;;Kod som kan tas i bruk med kort varsel 1;1.1.2013;
+IN;U061;;;;;Kod som kan tas i bruk med kort varsel 2;1.1.2013;
+IN;U062;;;;;Kod som kan tas i bruk med kort varsel 3;1.1.2013;
+IN;U063;;;;;Kod som kan tas i bruk med kort varsel 4;1.1.2013;
+IN;U064;;;;;Kod som kan tas i bruk med kort varsel 5;1.1.2013;
+IN;U065;;;;;Kod som kan tas i bruk med kort varsel 6;1.1.2013;
+IN;U066;;;;;Kod som kan tas i bruk med kort varsel 7;1.1.2013;
+IN;U067;;;;;Kod som kan tas i bruk med kort varsel 8 ;1.1.2013;
+IN;U068;;;;;Kod som kan tas i bruk med kort varsel 9;1.1.2013;
+IN;U069;;;;;Kod som kan tas i bruk med kort varsel 10;1.1.2013;
+IN;U070;;;;;Kod som kan tas i bruk med kort varsel 11;1.1.2013;
+IN;U071;;;;;Kod som kan tas i bruk med kort varsel 12;1.1.2013;
+IN;U072;;;;;Kod som kan tas i bruk med kort varsel 13;1.1.2013;
+IN;U073;;;;;Kod som kan tas i bruk med kort varsel 14;1.1.2013;
+IN;U074;;;;;Kod som kan tas i bruk med kort varsel 15;1.1.2013;
+IN;U075;;;;;Kod som kan tas i bruk med kort varsel 16;1.1.2013;
+IN;U076;;;;;Kod som kan tas i bruk med kort varsel 17;1.1.2013;
+IN;U077;;;;;Kod som kan tas i bruk med kort varsel 18;1.1.2013;
+IN;U078;;;;;Kod som kan tas i bruk med kort varsel 19 ;1.1.2013;
+IN;U079;;;;;Kod som kan tas i bruk med kort varsel 20;1.1.2013;
+IN;U981;;;;;Hj„rtinfarkt, typ 1;1.1.2013;
+IN;U982;;;;;Hj„rtinfarkt, typ 2;1.1.2013;
+IN;U983;;;;;Hj„rtinfarkt, typ 3;1.1.2013;
+IN;U984A;;;;;Hj„rtinfarkt, typ 4a;1.1.2013;
+IN;U984B;;;;;Hj„rtinfarkt, typ 4b;1.1.2013;
+IN;U985;;;;;Hj„rtinfarkt, typ 5;1.1.2013;
+IN;UA3298;;;;;Kommunicera, att vara mottagare, ej specificerat;1.1.2013;
+IN;UA3299;;;;;Kommunicera, att vara mottagare, ej till„mpbart;1.1.2013;
+IN;UA3498;;;;;Kommunicera, att vara s„ndare, ej specificerat;1.1.2013;
+IN;UA3499;;;;;Kommunicera, att vara s„ndare, ej till„mpbart;1.1.2013;
+IN;UA41A8;;;;;Ligga ner, ej specificerat;1.1.2013;
+IN;UA41A9;;;;;Ligga ner, ej till„mpbart;1.1.2013;
+IN;UA41D8;;;;;Sitta, ej specificerat;1.1.2013;
+IN;UA41D9;;;;;Sitta, ej till„mpbart;1.1.2013;
+IN;UA4408;;;;;Handens finmotorik, ej specificerat;1.1.2013;
+IN;UA4409;;;;;Handens finmotorik, ej till„mpbart;1.1.2013;
+IN;UA45A8;;;;;G† kortare str„ckor, ej specificerat;1.1.2013;
+IN;UA45A9;;;;;G† kortare str„ckor, ej till„mpbart;1.1.2013;
+IN;UA4658;;;;;F”rflytta sig med hj„lp av utrustning, ej specificerat;1.1.2013;
+IN;UA4659;;;;;F”rflytta sig med hj„lp av utrustning, ej till„mpbart;1.1.2013;
+IN;UA5108;;;;;Tv„tta sig, ej specificerat;1.1.2013;
+IN;UA5109;;;;;Tv„tta sig, ej till„mpbart;1.1.2013;
+IN;UA5208;;;;;Kroppsv†rd, ej specificerat;1.1.2013;
+IN;UA5209;;;;;Kroppsv†rd, ej till„mpbart;1.1.2013;
+IN;UA53A8;;;;;Kontrollera urinering, ej specificerat;1.1.2013;
+IN;UA53A9;;;;;Kontrollera urinering, ej till„mpbart;1.1.2013;
+IN;UA53B8;;;;;Kontrollera avf”ring, ej specificerat;1.1.2013;
+IN;UA53B9;;;;;Kontrollera avf”ring, ej till„mpbart;1.1.2013;
+IN;UA5408;;;;;Kl„ sig, ej specificerat;1.1.2013;
+IN;UA5409;;;;;Kl„ sig, ej till„mpbart;1.1.2013;
+OUT;UA5502;;;;;Žta, l„tt aktivitetsbegr„nsning;;31.12.2012
+IN;UA5502;;;;;Žta, m†ttlig aktivitetsbegr„nsning;1.1.2013;
+OUT;UA5503;;;;;Žta, m†ttlig aktivitetsbegr„nsning;;31.12.2012
+IN;UA5503;;;;;Žta, stor aktivitetsbegr„nsning;1.1.2013;
+OUT;UA5504;;;;;Žta, stor aktivitetsbegr„nsning;;31.12.2012
+IN;UA5504;;;;;Žta, total aktivitetsbegr„nsning;1.1.2013;
+IN;UA5508;;;;;Žta, ej specificerat;1.1.2013;
+IN;UA5509;;;;;Žta, ej till„mpbart;1.1.2013;
+IN;UA5608;;;;;Dricka, ej specificerat;1.1.2013;
+IN;UA5609;;;;;Dricka, ej till„mpbart;1.1.2013;
+IN;UB1148;;;;;Orienteringsfunktioner, ej specificerat;1.1.2013;
+IN;UB1149;;;;;Orienteringsfunktioner, ej till„mpbart;1.1.2013;
+IN;UB1448;;;;;Minnesfunktioner, ej specificerat;1.1.2013;
+IN;UB1449;;;;;Minnesfunktioner, ej till„mpbart;1.1.2013;
+IN;UB1648;;;;;H”gre kognitiva funktioner, ej specificerat;1.1.2013;
+IN;UB1649;;;;;H”gre kognitiva funktioner, ej till„mpbart;1.1.2013;
+IN;UP7108;;;;;Grundl„ggande mellanm„nskliga interaktioner, ej specificerat;1.1.2013;
+IN;UP7109;;;;;Grundl„ggande mellanm„nskliga interaktioner, ej till„mpbart;1.1.2013;
+OUT;Y0500;;;;;Sexuellt ”vergrepp av obev„pnad person-bostad-idrott;;31.12.2012
+IN;Y0500;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-bostad-idrott;1.1.2013;
+OUT;Y0501;;;;;Sexuellt ”vergrepp av obev„pnad person-bostad-lek,fritid;;31.12.2012
+IN;Y0501;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-bostad-lek,fritid;1.1.2013;
+OUT;Y0502;;;;;Sexuellt ”vergrepp av obev„pnad person-bostad-f”rv„rvsarbete;;31.12.2012
+IN;Y0502;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-bostad-f”rv„rvsarbete;1.1.2013;
+OUT;Y0504;;;;;Sexuellt ”vergrepp av obev„pnad person-bostad-vitalaktivitet;;31.12.2012
+IN;Y0504;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-bostad-vitalaktivitet;1.1.2013;
+OUT;Y0508;;;;;Sexuellt ”vergrepp av obev„pnad person-bostad-andra aktiviteter;;31.12.2012
+IN;Y0508;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-bostad-andra aktiviteter;1.1.2013;
+OUT;Y0509;;;;;Sexuellt ”vergrepp av obev„pnad person-bostad-ospec aktiviteter;;31.12.2012
+IN;Y0509;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-bostad-ospec aktiviteter;1.1.2013;
+IN;Y050A;;;;;Sexuellt ”vergrepp av obev„pnad person-bostad-k„nd person;1.1.2013;
+IN;Y050B;;;;;Sexuellt ”vergrepp av obev„pnad person-bostad-ok„nd person;1.1.2013;
+OUT;Y0510;;;;;Sexuellt ”vergrepp av obev„pnad person-institutionellt boende-idrott;;31.12.2012
+IN;Y0510;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-instiutionellt boende-idrott;1.1.2013;
+OUT;Y0511;;;;;Sexuellt ”vergrepp av obev„pnad person-institutionellt boende-lek,fritid;;31.12.2012
+IN;Y0511;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-instiutionellt boende-lek, fritid;1.1.2013;
+OUT;Y0512;;;;;Sexuellt ”vergrepp av obev„pnad person-institutionellt boende-f”rv„rvsarbete;;31.12.2012
+IN;Y0512;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-instiutionellt boende-f”rv„rvsarbete;1.1.2013;
+OUT;Y0513;;;;;Sexuellt ”vergrepp av obev„pnad person-institutionellt boende-annan syssels„ttning;;31.12.2012
+IN;Y0513;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-instiutionellt boende-annan syssels„ttning;1.1.2013;
+OUT;Y0514;;;;;Sexuellt ”vergrepp av obev„pnad person-institutionellt boende-vitalaktivitet;;31.12.2012
+IN;Y0514;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-instiutionellt boende-vitalaktivitet;1.1.2013;
+OUT;Y0518;;;;;Sexuellt ”vergrepp av obev„pnad person-institutionellt boende-andra aktiviteter;;31.12.2012
+IN;Y0518;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-instiutionellt boende-andra aktiviteter;1.1.2013;
+OUT;Y0519;;;;;Sexuellt ”vergrepp av obev„pnad person-institutionellt boende-ospec aktiviteter;;31.12.2012
+IN;Y0519;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-instiutionellt boende-ospec aktiviteter;1.1.2013;
+IN;Y051A;;;;;Sexuellt ”vergrepp av obev„pnad person-institutionellt boende-k„nd person;1.1.2013;
+IN;Y051B;;;;;Sexuellt ”vergrepp av obev„pnad person-institutionellt boende-ok„nd person;1.1.2013;
+OUT;Y0520;;;;;Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-idrott;;31.12.2012
+IN;Y0520;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-idrott;1.1.2013;
+OUT;Y0521;;;;;Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-lek,fritid;;31.12.2012
+IN;Y0521;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-lek, fritid;1.1.2013;
+OUT;Y0522;;;;;Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-f”rv„rvsarbete;;31.12.2012
+IN;Y0522;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-f”rv„rvsarbete;1.1.2013;
+OUT;Y0523;;;;;Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-annan syssels„ttning;;31.12.2012
+IN;Y0523;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-annan syssels„ttning;1.1.2013;
+OUT;Y0524;;;;;Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-vitalaktivitet;;31.12.2012
+IN;Y0524;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-vitalaktivitet;1.1.2013;
+OUT;Y0528;;;;;Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-andra aktiviteter;;31.12.2012
+IN;Y0528;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-andra aktiviteter;1.1.2013;
+OUT;Y0529;;;;;Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-ospec aktiviteter;;31.12.2012
+IN;Y0529;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-ospec aktiviteter;1.1.2013;
+IN;Y052A;;;;;Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-k„nd person;1.1.2013;
+IN;Y052B;;;;;Sexuellt ”vergrepp av obev„pnad person-skola, offentlig lokal-ok„nd person;1.1.2013;
+OUT;Y0530;;;;;Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-idrott;;31.12.2012
+IN;Y0530;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-idrott;1.1.2013;
+OUT;Y0531;;;;;Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-lek,fritid;;31.12.2012
+IN;Y0531;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-lek, fritid;1.1.2013;
+OUT;Y0532;;;;;Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-f”rv„rvsarbete;;31.12.2012
+IN;Y0532;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-f”rv„rvsarbete;1.1.2013;
+OUT;Y0533;;;;;Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-annan syssels„ttning;;31.12.2012
+IN;Y0533;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-annan syssels„ttning;1.1.2013;
+OUT;Y0534;;;;;Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-vitalaktivitet;;31.12.2012
+IN;Y0534;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-vitalaktivitet;1.1.2013;
+OUT;Y0538;;;;;Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-andra aktiviteter;;31.12.2012
+IN;Y0538;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-andra aktiviteter;1.1.2013;
+OUT;Y0539;;;;;Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-ospec aktiviteter;;31.12.2012
+IN;Y0539;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-ospec aktiviteter;1.1.2013;
+IN;Y053A;;;;;Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-k„nd person;1.1.2013;
+IN;Y053B;;;;;Sexuellt ”vergrepp av obev„pnad person-idrottsanl„ggning-ok„nd person;1.1.2013;
+OUT;Y0540;;;;;Sexuellt ”vergrepp av obev„pnad person-gata-idrott;;31.12.2012
+IN;Y0540;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-gata-idrott;1.1.2013;
+OUT;Y0541;;;;;Sexuellt ”vergrepp av obev„pnad person-gata-lek,fritid;;31.12.2012
+IN;Y0541;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-gata-lek, fritid;1.1.2013;
+OUT;Y0542;;;;;Sexuellt ”vergrepp av obev„pnad person-gata-f”rv„rvsarbete;;31.12.2012
+IN;Y0542;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-gata-f”rv„rvsarbete;1.1.2013;
+OUT;Y0543;;;;;Sexuellt ”vergrepp av obev„pnad person-gata-annan syssels„ttning;;31.12.2012
+IN;Y0543;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-gata-annan syssels„ttning;1.1.2013;
+OUT;Y0544;;;;;Sexuellt ”vergrepp av obev„pnad person-gata-vitalaktivitet;;31.12.2012
+IN;Y0544;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-gata-vitalaktivitet;1.1.2013;
+OUT;Y0548;;;;;Sexuellt ”vergrepp av obev„pnad person-gata-andra aktiviteter;;31.12.2012
+IN;Y0548;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-gata-andra aktiviteter;1.1.2013;
+OUT;Y0549;;;;;Sexuellt ”vergrepp av obev„pnad person-gata-ospec aktiviteter;;31.12.2012
+IN;Y0549;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-gata-ospec aktiviteter;1.1.2013;
+IN;Y054A;;;;;Sexuellt ”vergrepp av obev„pnad person-gata-k„nd person;1.1.2013;
+IN;Y054B;;;;;Sexuellt ”vergrepp av obev„pnad person-gata-ok„nd person;1.1.2013;
+OUT;Y0550;;;;;Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-idrott;;31.12.2012
+IN;Y0550;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-idrott;1.1.2013;
+OUT;Y0551;;;;;Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-lek,fritid;;31.12.2012
+IN;Y0551;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-lek, fritid;1.1.2013;
+OUT;Y0552;;;;;Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-f”rv„rvsarbete;;31.12.2012
+IN;Y0552;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-f”rv„rvsarbete;1.1.2013;
+OUT;Y0553;;;;;Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-annan syssels„ttning;;31.12.2012
+IN;Y0553;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-annan syssels„ttning;1.1.2013;
+OUT;Y0554;;;;;Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-vitalaktivitet;;31.12.2012
+IN;Y0554;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-vitalaktivitet;1.1.2013;
+OUT;Y0558;;;;;Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-andra aktiviteter;;31.12.2012
+IN;Y0558;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-andra aktiviteter;1.1.2013;
+OUT;Y0559;;;;;Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-ospec aktiviteter;;31.12.2012
+IN;Y0559;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-ospec aktiviteter;1.1.2013;
+IN;Y055A;;;;;Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-k„nd person;1.1.2013;
+IN;Y055B;;;;;Sexuellt ”vergrepp av obev„pnad person-serviceomr†de-ok„nd person;1.1.2013;
+OUT;Y0560;;;;;Sexuellt ”vergrepp av obev„pnad person-industriomr†de-idrott;;31.12.2012
+IN;Y0560;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-industriomr†de-idrott;1.1.2013;
+OUT;Y0561;;;;;Sexuellt ”vergrepp av obev„pnad person-industriomr†de-lek,fritid;;31.12.2012
+IN;Y0561;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-industriomr†de-lek, fritid;1.1.2013;
+OUT;Y0562;;;;;Sexuellt ”vergrepp av obev„pnad person-industriomr†de-f”rv„rvsarbete;;31.12.2012
+IN;Y0562;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-industriomr†de-f”rv„rvsarbete;1.1.2013;
+OUT;Y0563;;;;;Sexuellt ”vergrepp av obev„pnad person-industriomr†de-annan syssels„ttning;;31.12.2012
+IN;Y0563;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-industriomr†de-annan syssels„ttning;1.1.2013;
+OUT;Y0564;;;;;Sexuellt ”vergrepp av obev„pnad person-industriomr†de-vitalaktivitet;;31.12.2012
+IN;Y0564;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-industriomr†de-vitalaktivitet;1.1.2013;
+OUT;Y0568;;;;;Sexuellt ”vergrepp av obev„pnad person-industriomr†de-andra aktiviteter;;31.12.2012
+IN;Y0568;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-industriomr†de-andra aktiviteter;1.1.2013;
+OUT;Y0569;;;;;Sexuellt ”vergrepp av obev„pnad person-industriomr†de-ospec aktiviteter;;31.12.2012
+IN;Y0569;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-industriomr†de-ospec aktiviteter;1.1.2013;
+IN;Y056A;;;;;Sexuellt ”vergrepp av obev„pnad person-industriomr†de-k„nd person;1.1.2013;
+IN;Y056B;;;;;Sexuellt ”vergrepp av obev„pnad person-industriomr†de-ok„nd person;1.1.2013;
+OUT;Y0570;;;;;Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-idrott;;31.12.2012
+IN;Y0570;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-idrott;1.1.2013;
+OUT;Y0571;;;;;Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-lek,fritid;;31.12.2012
+IN;Y0571;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-lek, fritid;1.1.2013;
+OUT;Y0572;;;;;Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-f”rv„rvsarbete;;31.12.2012
+IN;Y0572;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-f”rv„rvsarbete;1.1.2013;
+OUT;Y0573;;;;;Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-annan syssels„ttning;;31.12.2012
+IN;Y0573;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-annan syssels„ttning;1.1.2013;
+OUT;Y0574;;;;;Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-vitalaktivitet;;31.12.2012
+IN;Y0574;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-vitalaktivitet;1.1.2013;
+OUT;Y0578;;;;;Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-andra aktiviteter;;31.12.2012
+IN;Y0578;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-andra aktiviteter;1.1.2013;
+OUT;Y0579;;;;;Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-ospec aktiviteter;;31.12.2012
+IN;Y0579;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-ospec aktiviteter;1.1.2013;
+IN;Y057A;;;;;Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-k„nd person;1.1.2013;
+IN;Y057B;;;;;Sexuellt ”vergrepp av obev„pnad person-lantbruksomr†de-ok„nd person;1.1.2013;
+OUT;Y0580;;;;;Sexuellt ”vergrepp av obev„pnad person-andra omr†den-idrott;;31.12.2012
+IN;Y0580;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-andra omr†den-idrott;1.1.2013;
+OUT;Y0581;;;;;Sexuellt ”vergrepp av obev„pnad person-andra omr†den-lek,fritid;;31.12.2012
+IN;Y0581;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-andra omr†den-lek, fritid;1.1.2013;
+OUT;Y0582;;;;;Sexuellt ”vergrepp av obev„pnad person-andra omr†den-f”rv„rvsarbete;;31.12.2012
+IN;Y0582;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-andra omr†den-f”rv„rvsarbete;1.1.2013;
+OUT;Y0583;;;;;Sexuellt ”vergrepp av obev„pnad person-andra omr†den-annan syssels„ttning;;31.12.2012
+IN;Y0583;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-andra omr†den-annan syssels„ttning;1.1.2013;
+OUT;Y0584;;;;;Sexuellt ”vergrepp av obev„pnad person-andra omr†den-vitalaktivitet;;31.12.2012
+IN;Y0584;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-andra omr†den-vitalaktivitet;1.1.2013;
+OUT;Y0588;;;;;Sexuellt ”vergrepp av obev„pnad person-andra omr†den-andra aktiviteter;;31.12.2012
+IN;Y0588;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-andra omr†den-andra aktiviteter;1.1.2013;
+OUT;Y0589;;;;;Sexuellt ”vergrepp av obev„pnad person-andra omr†den-ospec aktiviteter;;31.12.2012
+IN;Y0589;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-andra omr†den-ospec aktiviteter;1.1.2013;
+IN;Y058A;;;;;Sexuellt ”vergrepp av obev„pnad person-andra omr†den-k„nd person;1.1.2013;
+IN;Y058B;;;;;Sexuellt ”vergrepp av obev„pnad person-andra omr†den-ok„nd person;1.1.2013;
+OUT;Y0590;;;;;Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-idrott;;31.12.2012
+IN;Y0590;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-idrott;1.1.2013;
+OUT;Y0591;;;;;Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-lek,fritid;;31.12.2012
+IN;Y0591;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-lek, fritid;1.1.2013;
+OUT;Y0592;;;;;Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-f”rv„rvsarbete;;31.12.2012
+IN;Y0592;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-f”rv„rvsarbete;1.1.2013;
+OUT;Y0593;;;;;Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-annan syssels„ttning;;31.12.2012
+IN;Y0593;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-annan syssels„ttning;1.1.2013;
+OUT;Y0594;;;;;Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-vitalaktivitet;;31.12.2012
+IN;Y0594;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-vitalaktivitet;1.1.2013;
+OUT;Y0598;;;;;Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-andra aktiviteter;;31.12.2012
+IN;Y0598;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-andra aktiviteter;1.1.2013;
+OUT;Y0599;;;;;Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-ospec aktiviteter;;31.12.2012
+IN;Y0599;;;;;Deleted 2012/12/31 - Sexuellt ”vergrepp av obev„pnad person-ospec omr†de-ospec aktiviteter;1.1.2013;
+IN;Y059A;;;;;Sexuellt ”vergrepp av obev„pnad person-ospecificerat omr†de-k„nd person;1.1.2013;
+IN;Y059B;;;;;Sexuellt ”vergrepp av obev„pnad person-ospecificerat omr†de-ok„nd person;1.1.2013;
+OUT;Z950;;;;;F”rekomst av pacemaker, defibrillator och annan kardiell anordning;;31.12.2012
+IN;Z950;;;;;F”rekomst av elektronisk kardiell anordning;1.1.2013;
+IN;Z994;;;;;Beroende av konstgjort hj„rta;1.1.2013;

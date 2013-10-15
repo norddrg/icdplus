@@ -1,0 +1,95 @@
+D370A	Tumör av patologiskt osäker natur i läpp, munhåla och svalg 
+D370B	Tumör av kliniskt okänd natur i läpp, munhåla och svalg
+D371A	Tumör av patologiskt osäker natur i magsäcken
+D371B	Tumör av kliniskt okänd natur i magsäcken
+D372A	Tumör av patologiskt osäker natur i tunntarmen
+D372B	Tumör av kliniskt okänd natur i tunntarmen
+D373A	Tumör av patologiskt osäker natur i appendix
+D373B	Tumör av kliniskt okänd natur i appendix
+D374A	Tumör av patologiskt osäker natur i tjocktarmen
+D374B	Tumör av kliniskt okänd natur i tjocktarmen
+D375A	Tumör av patologiskt osäker natur i rektum
+D375B	Tumör av kliniskt okänd natur i rektum
+D376A	Tumör av patologiskt osäker natur i levern, gallblåsan och gallvägarna
+D376B	Tumör av kliniskt okänd natur i levern, gallblåsan och gallvägarna
+D377A	Tumör av patologiskt osäker natur i andra matsmältningsorgan
+D377B	Tumör av kliniskt okänd natur i andra matsmältningsorgan
+D380A	Tumör av patologiskt osäker natur i larynx
+D380B	Tumör av kliniskt okänd natur i larynx
+D381A	Tumör av patologiskt osäker natur i trakea, bronk och lunga
+D381B	Tumör av kliniskt okänd natur i trakea, bronk och lunga
+D382A	Tumör av patologiskt osäker natur i pleura
+D382B	Tumör av kliniskt okänd natur i pleura
+D383A	Tumör av patologiskt osäker natur i mediastinum
+D383B	Tumör av kliniskt okänd natur i mediastinum
+D384A	Tumör av patologiskt osäker natur i tymus
+D384B	Tumör av kliniskt okänd natur i tymus
+D385A	Tumör av patologiskt osäker natur i andra andningsorgan
+D385B	Tumör av kliniskt okänd natur i andra andningsorgan
+D390A	Tumör av patologiskt osäker natur i uterus
+D390B	Tumör av kliniskt okänd natur i uterus
+D391A	Tumör av patologiskt osäker natur i ovarium
+D391B	Tumör av kliniskt okänd natur i ovarium
+D397A	Tumör av patologiskt osäker natur i andra specificerade lokalisationer i de kvinnliga könsorganen
+D397B	Tumör av kliniskt okänd natur i andra specificerade lokalisationer i de kvinnliga könsorganen 
+D400A	Tumör av patologiskt osäker natur i prostata
+D400B	Tumör av kliniskt okänd natur i prostata
+D401A	Tumör av patologiskt osäker natur i testis
+D401B	Tumör av kliniskt okänd natur i testis
+D407A	Tumör av patologiskt osäker natur i andra specificerade lokalisationer i de manliga könsorganen
+D407B	Tumör av kliniskt okänd natur i andra specificerade lokalisationer i de manliga könsorganen
+D410A	Tumör av patologiskt osäker natur i njure
+D410B	Tumör av kliniskt okänd natur i njure
+D411A	Tumör av patologiskt osäker natur i njurbäcken
+D411B	Tumör av kliniskt okänd natur i njurbäcken
+D412A	Tumör av patologiskt osäker natur i uretär
+D412B	Tumör av kliniskt okänd natur i uretär
+D413A	Tumör av patologiskt osäker natur i uretra
+D413B	Tumör av kliniskt okänd natur i uretra
+D414A	Tumör av patologiskt osäker natur i urinblåsan
+D414B	Tumör av kliniskt okänd natur i urinblåsan
+D417A	Tumör av patologiskt osäker natur i andra specificerade lokalisationer i urinorganen
+D417B	Tumör av kliniskt okänd natur i andra specificerade lokalisationer i urinorganen
+D420A	Tumör av patologiskt osäker natur i hjärnhinnor
+D420B	Tumör av kliniskt okänd natur i hjärnhinnor
+D421A	Tumör av patologiskt osäker natur i ryggmärgshinnor
+D421B	Tumör av kliniskt okänd natur i ryggmärgshinnor
+D430A	Tumör av patologiskt osäker natur i hjärnan, supratentoriell lokalisation
+D430B	Tumör av kliniskt okänd natur i hjärnan, supratentoriell lokalisation
+D431A	Tumör av patologiskt osäker natur i hjärnan, infratentoriell lokalisation
+D431B	Tumör av kliniskt okänd natur i hjärnan, infratentoriell lokalisation
+D433A	Tumör av patologiskt osäker natur i kranialnerver
+D433B	Tumör av kliniskt okänd natur i kranialnerver
+D434A	Tumör av patologiskt osäker natur i ryggmärgen
+D434B	Tumör av kliniskt okänd natur i ryggmärgen
+D437A	Tumör av patologiskt osäker natur i andra specificerade lokalisationer i centrala nervsystemet
+D437B	Tumör av kliniskt okänd natur i andra specificerade lokalisationer i centrala nervsystemet
+D440A	Tumör av patologiskt osäker natur i tyreoidea
+D440B	Tumör av kliniskt okänd natur i tyreoidea
+D441A	Tumör av patologiskt osäker natur i binjure
+D441B	Tumör av kliniskt okänd natur i binjure
+D442A	Tumör av patologiskt osäker natur i paratyreoidea
+D442B	Tumör av kliniskt okänd natur i paratyreoidea
+D443A	Tumör av patologiskt osäker natur i hypofysen
+D443B	Tumör av kliniskt okänd natur i hypofysen
+D444A	Tumör av patologiskt osäker natur i ductus craniopharyngealis
+D444B	Tumör av kliniskt okänd natur i ductus craniopharyngealis
+D445A	Tumör av patologiskt osäker natur i corpus pineale
+D445B	Tumör av kliniskt okänd natur i corpus pineale
+D446A	Tumör av patologiskt osäker natur i glomus caroticum
+D446B	Tumör av kliniskt okänd natur i glomus caroticum
+D447A	Tumör av patologiskt osäker natur i aortic body (aortanära körtel) och andra paraganglier
+D447B	Tumör av kliniskt okänd natur i aortic body (aortanära körtel) och andra paraganglier
+D480A	Tumör av patologiskt osäker natur i ben och ledbrosk
+D480B	Tumör av kliniskt okänd natur i ben och ledbrosk
+D482A	Tumör av patologiskt osäker natur i perifera nerver och autonoma nervsystemet
+D482B	Tumör av kliniskt okänd natur i perifera nerver och autonoma nervsystemet
+D483A	Tumör av patologiskt osäker natur i retroperitoneum
+D483B	Tumör av kliniskt okänd natur i retroperitoneum
+D484A	Tumör av patologiskt osäker natur i peritoneum
+D484B	Tumör av kliniskt okänd natur i peritoneum
+D486A	Tumör av patologiskt osäker natur i bröstkörtel
+D486B	Tumör av kliniskt okänd natur i bröstkörtel
+D487A	Tumör av patologiskt osäker natur i andra specificerade lokalisationer 
+D487B	Tumör av kliniskt okänd natur i andra specificerade lokalisationer
+U999	Diagnosinformation saknas 

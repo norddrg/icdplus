@@ -1,0 +1,19 @@
+PROCEDURE editengl
+SELECT icd10plus
+IF who
+  WAIT WINDOW NOWAIT 'Original ICD-10 code!'
+ENDIF
+DEFINE WINDOW linkki FROM 1,max_x/2 to max_y/2, max_x FONT  max_foty,  max_fosi
+Activate WINDOW linkki
+@ 2,5 say icd10plus.code 
+@ 2,14 get icd10plus.text
+READ
+WAIT WINDOW 'Copy to english text local version? [Y]/[N]'
+IF LASTKEY()= 89 OR LASTKEY()=121
+  SELECT icd_10
+  SEEK icd10plus.code_fin
+  replace icd_10.text_2 WITH icd10plus.text
+endif
+RELEASE WINDOWS linkki
+RETURN
+

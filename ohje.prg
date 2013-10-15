@@ -1,0 +1,34 @@
+PROCEDURE ohje
+activate window valikko
+@ 0,2 say 'ICD-10 plus maintenance programme'
+
+@ 2,5 say '[F1] - instructions for use'
+@ 3,5 say '[Alt][F1] - restart'
+
+@ 5,5 say '[F11] - update screen according to the active file'
+@ 6,5 say '[F12] - create a linkage from local ICD-10 to ICD10PLUS'
+@ 7,5 say '[F10] - create new ICD10PLUS code from local code'
+@ 8,5 say '[F8] - transport local file to c:/data for external use (e.g. DRG)'
+
+@ 12,5 say '[Alt][F] - search for national ICD-10 code'
+@ 13,5 say '[Alt][X] - remove mapping from ICD-10'
+@ 14,5 say '[Alt][L] - check-up of all links(start from top)'
+@ 15,5 say '[Alt][E] - edit english text'
+@ 16,5 say '[Alt][N] - new icd10plus code added'
+@ 17,5 say '[Alt][D] - delete existing icd10plus code'
+@ 18,5 say '[Ctrl][B] -  edit active window'
+
+ON KEY LABEL F10 do ..\icd10plus\newlink
+ON KEY LABEL F11 do ..\icd10plus\naytto
+ON KEY LABEL F12 do ..\icd10plus\linkage
+ON KEY LABEL F8 do ..\icd10plus\siirto
+ON KEY LABEL F1 do ..\icd10plus\ohje
+ON KEY LABEL Alt+F do ..\icd10plus\haku
+ON KEY LABEL ALT+X do ..\icd10plus\poisto
+ON KEY LABEL ALT+L do ..\icd10plus\nextcase
+ON KEY LABEL ALT+E do ..\icd10plus\editengl
+ON KEY LABEL ALT+N do ..\icd10plus\addplus
+ON KEY LABEL ALT+D do ..\icd10plus\remplus
+ON KEY LABEL ALT+F1 do ..\icd10plus\_icd10plus
+ON KEY LABEL CTRL+B do ..\icd10plus\textedit
+return

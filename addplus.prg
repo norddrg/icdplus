@@ -1,0 +1,32 @@
+PROCEDURE addplus
+SELECT icd10plus
+ac_ord=ord
+ac_code=code
+ac_text=text
+ac_help=text
+lc_loop=.t.
+DEFINE WINDOW linkki FROM 1,max_x/2 to max_y/2, max_x FONT  max_foty,  max_fosi
+Activate WINDOW linkki
+DO WHILE lc_loop
+  WAIT WINDOW NOWAIT 'Edit the code and the text! Return without adding code [PgDn]'
+  @ 2,5 get ac_ord picture '!!!!!'
+  @ 2,14 get ac_text
+  READ
+  IF LASTKEY()=3 OR LASTKEY()=18
+    EXIT 
+  ENDIF 
+  IF ac_ord=ac_code OR ac_text=ac_help
+     WAIT WINDOW 'The code and the text must be changed!'
+     LOOP 
+  ENDIF
+  EXIT 
+ENDDO 
+IF LASTKEY()=3 OR LASTKEY()=18
+  RETURN
+ENDIF 
+APPEND BLANK 
+replace ord WITH ac_ord, code WITH ac_ord, text WITH ac_text, change WITH DATE()
+RELEASE WINDOWS linkki
+DO ..\icd10plus\naytto
+RETURN
+

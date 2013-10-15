@@ -1,0 +1,29 @@
+PROCEDURE icd10plus
+if max_x<60 or max_y<23
+    wait window 'Too small window, start again!'
+    return
+endif
+DEFINE WINDOW valikko FROM 1,1 to max_y-2, max_x/2 FONT  max_foty,  max_fosi
+Activate WINDOW valikko
+set date to ymd
+set century on
+clear
+close databases
+select 1
+close databases
+set talk off
+set near on
+PUBLIC lc_icd
+lc_icd=SPACE(7)
+SELECT 0
+USE ..\icd10plus\icd10plus
+SET ORDER TO ORD   && ORD
+SET FILTER TO
+SET SAFETY OFF 
+ERASE ('..\icd10plus\icd10plus.txt')
+COPY TO ('..\icd10plus\icd10plus.txt') DELIMITED WITH CHAR ';'
+SET SAFETY ON
+DO ..\icd10plus\lang_def
+DO ..\icd10plus\naytto
+DO ..\icd10plus\ohje
+RETURN 

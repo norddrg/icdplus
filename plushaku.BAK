@@ -1,0 +1,30 @@
+PROCEDURE plushaku
+SELECT ICD10plus
+DEFINE WINDOW haku FROM max_y/2+5, max_x-45 TO max_y-10, max_x FONT max_foty, max_fosi
+ACTIVATE WINDOW haku
+lc_icd=SPACE(100)
+lc_loop =.t.
+  @ 2,2 say 'Search for ICD10PLUS, give a valid code or a text string !'
+  @ 4,2 get lc_icd 
+  READ
+SEEK TRIM(lc_icd)
+IF NOT FOUND()
+  ACTIVATE WINDOW haku
+  @ 6,2 say 'Accept line with [Enter]'
+  GOTO top
+  lc_loop=.t.
+  DO WHILE lc_loop
+    LOCATE NEXT 30000 FOR AT(TRIM(lc_icd),text)>0
+    IF AT(TRIM(lc_icd),text)=0
+      WAIT WINDOW NOWAIT 'Not found'
+      EXIT 
+    ENDIF 
+    BROWSE WINDOW icd_com FIELDS code:7, ast:2, text:100, code_den:12, code_est:12, code_fin:12, code_ice:12, code_lat:12, code_nor:12, code_swe:12 nowait save nomodify    
+    IF LASTKEY()=13
+       exit
+    endif
+  ENDDO 
+ENDIF 
+DEACTIVATE WINDOW haku
+ACTIVATE WINDOW linkki
+RETURN 

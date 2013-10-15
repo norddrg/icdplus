@@ -1,0 +1,106 @@
+PROCEDURE newlink
+
+SELECT icd10plus 
+DO case
+  CASE p_kieli='Fin'
+    SET ORDER TO code_fin
+  CASE p_kieli='Swe'
+    SET ORDER TO code_swe
+  CASE p_kieli='Nor'
+    SET ORDER TO CODE_NOR   && CODE_NOR
+  CASE p_kieli='Den'
+    SET ORDER TO CODE_DEN   && CODE_DEN
+  CASE p_kieli='Est'
+    SET ORDER TO CODE_EST   && CODE_EST
+  CASE p_kieli='Lat'
+    SET ORDER TO CODE_LAT   && CODE_LAT
+  CASE p_kieli='Eng'
+    SET ORDER TO CODE_WHO   && CODE_WHO
+ENDCASE 
+SEEK icd_10.code
+IF FOUND()
+ DO case
+  CASE p_kieli='Fin'
+    replace code_fin WITH ' '
+  CASE p_kieli='Swe'
+    replace code_swe WITH ' '
+  CASE p_kieli='Nor'
+    replace CODE_NOR WITH ' '
+  CASE p_kieli='Den'
+    replace CODE_DEN WITH ' '
+  CASE p_kieli='Est'
+    replace CODE_EST WITH ' '
+  CASE p_kieli='Lat'
+    replace CODE_LAT WITH ' '
+  CASE p_kieli='Eng'
+    replace code_who WITH ' '
+ ENDCASE 
+ENDIF  
+SELECT icd10plus
+SET ORDER TO ORD   && ORD
+SET FILTER TO icd10plus.ord<>'+' AND icd10plus.ord<>'_'
+BROWSE WINDOW icd_com FIELDS ord:7, code:7, ast:2, text:100, code_who:12, code_den:12, code_est:12, code_fin:12, code_ice:12, code_lat:12, code_nor:12, code_swe:12 nowait save nomodify
+
+DEFINE WINDOW linkki FROM 1,max_x/2 to max_y/2, max_x FONT  max_foty,  max_fosi
+Activate WINDOW linkki
+@ 2,5 say icd_10.code 
+@ 2,14 say icd_10.d_code
+@ 2,23 say icd_10.text
+@ 3,23 say icd_10.text_2
+
+WAIT window 'Do you want to add a new link to this local code? Y/N'
+
+IF NOT (LASTKEY()=121 OR LASTKEY()=89)
+  DO ..\icd10plus\naytto
+  RETURN 
+ENDIF 
+@ 4,5 say 'Check the new ICD10PLUS code and the text - existing code is not accepted'
+
+lc_new=icd_10.code+'  '
+lc_newtext=icd_10.text
+IF icd_10.text_2<>' '
+  lc_newtext=icd_10.text_2
+endif
+lc_ast=icd_10.ast
+@ 6,5 get lc_new
+@ 7,5 get lc_ast
+@ 8,5 get lc_newtext
+READ
+lc_new = UPPER(lc_new)
+SELECT icd10plus
+SEEK TRIM(lc_new)
+IF FOUND()
+  WAIT WINDOW 'Existing code cannot be used'
+  SELECT icd_10
+  DO ..\icd10plus\naytto
+  RETURN 
+ENDIF    
+
+APPEND BLANK
+REPLACE ord WITH lc_new, code WITH lc_new, text WITH lc_newtext, ast WITH lc_ast, usedate WITH DATE()
+DO case
+CASE p_kieli='Dan'
+  replace code_den WITH icd_10.code
+CASE p_kieli='Est'
+  replace code_est WITH icd_10.code
+CASE p_kieli='Fin'
+  replace code_fin WITH icd_10.code
+CASE p_kieli='Eng'
+  replace code_who WITH icd_10.code
+CASE p_kieli='Ice'
+  replace code_ice WITH icd_10.code
+CASE p_kieli='Lat'
+  replace code_lat WITH icd_10.code
+CASE p_kieli='Nor'
+  replace code_nor WITH icd_10.code
+CASE p_kieli='Swe'
+  replace code_swe WITH icd_10.code
+ENDCASE
+
+replace icd_10.code_w WITH icd10plus.ord
+REPLACE icd_10.text_2 WITH icd10plus.text
+
+DO ..\icd10plus\naytto
+
+RETURN
+

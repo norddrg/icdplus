@@ -1,0 +1,477 @@
+code;d_code;vartype;varval;GAMMAL icd_text;NY icd_text
+A488A;;DGCAT;18M99;Trichomycosis axillaris;Deleted 2009-12-31 Trichomycosis axillaris
+A488A;;MDC;18;Trichomycosis axillaris;Deleted 2009-12-31 Trichomycosis axillaris
+A488A;;DGPROP;18X99;Trichomycosis axillaris;Deleted 2009-12-31 Trichomycosis axillaris
+A488A;;DGPROP;15X36;Trichomycosis axillaris;Deleted 2009-12-31 Trichomycosis axillaris
+A488B;;DGCAT;03M05;Rinosklerom;Deleted 2009-12-31 Rinosklerom
+A488B;;PDGPRO;05P10;Rinosklerom;Deleted 2009-12-31 Rinosklerom
+A488B;;DGPROP;15X98;Rinosklerom;Deleted 2009-12-31 Rinosklerom
+A488B;;MDC;03;Rinosklerom;Deleted 2009-12-31 Rinosklerom
+A488B;;DGPROP;03X99;Rinosklerom;Deleted 2009-12-31 Rinosklerom
+A488W;;DGCAT;18M99;Andra specificerade bakteriesjukdomar;Deleted 2009-12-31 Andra specificerade bakteriesjukdomar
+A488W;;MDC;18;Andra specificerade bakteriesjukdomar;Deleted 2009-12-31 Andra specificerade bakteriesjukdomar
+A488W;;DGPROP;18X99;Andra specificerade bakteriesjukdomar;Deleted 2009-12-31 Andra specificerade bakteriesjukdomar
+A488W;;DGPROP;15X36;Andra specificerade bakteriesjukdomar;Deleted 2009-12-31 Andra specificerade bakteriesjukdomar
+A491A;;DGCAT;18M99;Pneumokockinfektion UNS;Deleted 2009-12-31 Pneumokockinfektion UNS
+A491A;;MDC;18;Pneumokockinfektion UNS;Deleted 2009-12-31 Pneumokockinfektion UNS
+A491A;;DGPROP;18X99;Pneumokockinfektion UNS;Deleted 2009-12-31 Pneumokockinfektion UNS
+A491A;;DGPROP;15X98;Pneumokockinfektion UNS;Deleted 2009-12-31 Pneumokockinfektion UNS
+A491W;;DGPROP;18X99;Streptokocker UNS;Deleted 2009-12-31 Streptokocker UNS
+A491W;;DGPROP;15X98;Streptokocker UNS;Deleted 2009-12-31 Streptokocker UNS
+A491W;;DGCAT;18M99;Streptokocker UNS;Deleted 2009-12-31 Streptokocker UNS
+A491W;;MDC;18;Streptokocker UNS;Deleted 2009-12-31 Streptokocker UNS
+A498A;;DGCAT;18M99;E coli-infektion UNS;Deleted 2009-12-31 E coli-infektion UNS
+A498A;;MDC;18;E coli-infektion UNS;Deleted 2009-12-31 E coli-infektion UNS
+A498A;;DGPROP;18X99;E coli-infektion UNS;Deleted 2009-12-31 E coli-infektion UNS
+A498A;;DGPROP;15X98;E coli-infektion UNS;Deleted 2009-12-31 E coli-infektion UNS
+A498W;;DGPROP;15X98;Infektion orsakad av annan specificerad bakterie;Deleted 2009-12-31 Infektion orsakad av annan specificerad bakterie
+A498W;;DGPROP;18X99;Infektion orsakad av annan specificerad bakterie;Deleted 2009-12-31 Infektion orsakad av annan specificerad bakterie
+A498W;;MDC;18;Infektion orsakad av annan specificerad bakterie;Deleted 2009-12-31 Infektion orsakad av annan specificerad bakterie
+A498W;;DGCAT;18M99;Infektion orsakad av annan specificerad bakterie;Deleted 2009-12-31 Infektion orsakad av annan specificerad bakterie
+B956X;;DGCAT;99M00; Staphylococcus aureus, annan eller UNS, som orsak till sjukdom som klassificeras under andra kapitel;Deleted 2009-12-31  Staphylococcus aureus, annan eller UNS, som orsak till sjukdom som klassificeras under andra kapitel
+B956X;;MDC;99; Staphylococcus aureus, annan eller UNS, som orsak till sjukdom som klassificeras under andra kapitel;Deleted 2009-12-31  Staphylococcus aureus, annan eller UNS, som orsak till sjukdom som klassificeras under andra kapitel
+B956X;;DGPROP;15X98; Staphylococcus aureus, annan eller UNS, som orsak till sjukdom som klassificeras under andra kapitel;Deleted 2009-12-31  Staphylococcus aureus, annan eller UNS, som orsak till sjukdom som klassificeras under andra kapitel
+B968A;;MDC;99;Helicobacter pylori som orsak till sjukdomar som klassificeras i andra kapitel;Deleted 2009-12-31 Helicobacter pylori som orsak till sjukdomar som klassificeras i andra kapitel
+B968A;;DGPROP;15X98;Helicobacter pylori som orsak till sjukdomar som klassificeras i andra kapitel;Deleted 2009-12-31 Helicobacter pylori som orsak till sjukdomar som klassificeras i andra kapitel
+B968A;;DGCAT;99M00;Helicobacter pylori som orsak till sjukdomar som klassificeras i andra kapitel;Deleted 2009-12-31 Helicobacter pylori som orsak till sjukdomar som klassificeras i andra kapitel
+B968W;;MDC;99;Andra specificerade bakterier som orsak till sjukdomar som klassificeras i andra kapitel;Deleted 2009-12-31 Andra specificerade bakterier som orsak till sjukdomar som klassificeras i andra kapitel
+B968W;;DGPROP;15X98;Andra specificerade bakterier som orsak till sjukdomar som klassificeras i andra kapitel;Deleted 2009-12-31 Andra specificerade bakterier som orsak till sjukdomar som klassificeras i andra kapitel
+B968W;;DGCAT;99M00;Andra specificerade bakterier som orsak till sjukdomar som klassificeras i andra kapitel;Deleted 2009-12-31 Andra specificerade bakterier som orsak till sjukdomar som klassificeras i andra kapitel
+C827A;;DGCAT;17M02;FollikulÑrt follikelcenterlymfom grad I, smÜcelligt;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad I, smÜcelligt
+C827A;;MDC;17;FollikulÑrt follikelcenterlymfom grad I, smÜcelligt;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad I, smÜcelligt
+C827A;;DGPROP;17X99;FollikulÑrt follikelcenterlymfom grad I, smÜcelligt;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad I, smÜcelligt
+C827A;;DGPROP;15X98;FollikulÑrt follikelcenterlymfom grad I, smÜcelligt;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad I, smÜcelligt
+C827A;;DGPROP;23X01;FollikulÑrt follikelcenterlymfom grad I, smÜcelligt;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad I, smÜcelligt
+C827A;;COMPL;17C04;FollikulÑrt follikelcenterlymfom grad I, smÜcelligt;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad I, smÜcelligt
+C827B;;MDC;17;FollikulÑrt follikelcenterlymfom grad II, blandat;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad II, blandat
+C827B;;DGPROP;17X99;FollikulÑrt follikelcenterlymfom grad II, blandat;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad II, blandat
+C827B;;DGPROP;23X01;FollikulÑrt follikelcenterlymfom grad II, blandat;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad II, blandat
+C827B;;COMPL;17C04;FollikulÑrt follikelcenterlymfom grad II, blandat;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad II, blandat
+C827B;;DGCAT;17M02;FollikulÑrt follikelcenterlymfom grad II, blandat;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad II, blandat
+C827B;;DGPROP;15X98;FollikulÑrt follikelcenterlymfom grad II, blandat;Deleted 2009-12-31 FollikulÑrt follikelcenterlymfom grad II, blandat
+C832;;DGPROP;17X99;Mixed small and large cell;Deleted 2009-12-31 Mixed small and large cell
+C832;;PDGPRO;18P01;Mixed small and large cell;Deleted 2009-12-31 Mixed small and large cell
+C832;;DGPROP;23X01;Mixed small and large cell;Deleted 2009-12-31 Mixed small and large cell
+C832;;DGPROP;15X98;Mixed small and large cell;Deleted 2009-12-31 Mixed small and large cell
+C832;;MDC;17;Mixed small and large cell;Deleted 2009-12-31 Mixed small and large cell
+C832;;DGCAT;17M02;Mixed small and large cell;Deleted 2009-12-31 Mixed small and large cell
+C832;;COMPL;17C04;Mixed small and large cell;Deleted 2009-12-31 Mixed small and large cell
+C832;;DGPROP;18X02;Mixed small and large cell;Deleted 2009-12-31 Mixed small and large cell
+C834;;DGPROP;23X01;Immunoblastiskt lymfom;Deleted 2009-12-31 Immunoblastiskt lymfom
+C834;;COMPL;17C04;Immunoblastiskt lymfom;Deleted 2009-12-31 Immunoblastiskt lymfom
+C834;;PDGPRO;18P01;Immunoblastiskt lymfom;Deleted 2009-12-31 Immunoblastiskt lymfom
+C834;;DGPROP;18X02;Immunoblastiskt lymfom;Deleted 2009-12-31 Immunoblastiskt lymfom
+C834;;DGPROP;15X98;Immunoblastiskt lymfom;Deleted 2009-12-31 Immunoblastiskt lymfom
+C834;;DGPROP;17X99;Immunoblastiskt lymfom;Deleted 2009-12-31 Immunoblastiskt lymfom
+C834;;MDC;17;Immunoblastiskt lymfom;Deleted 2009-12-31 Immunoblastiskt lymfom
+C834;;DGCAT;17M02;Immunoblastiskt lymfom;Deleted 2009-12-31 Immunoblastiskt lymfom
+C836;;DGPROP;18X02;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C836;;DGPROP;23X01;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C836;;DGPROP;15X98;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C836;;MDC;17;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C836;;DGCAT;17M02;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C836;;COMPL;17C04;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C836;;PDGPRO;18P01;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C836;;DGPROP;17X99;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C838A;;DGPROP;15X98;B-cells-lymfocytiskt lymfom;Deleted 2009-12-31 B-cells-lymfocytiskt lymfom
+C838A;;PDGPRO;18P01;B-cells-lymfocytiskt lymfom;Deleted 2009-12-31 B-cells-lymfocytiskt lymfom
+C838A;;DGPROP;23X01;B-cells-lymfocytiskt lymfom;Deleted 2009-12-31 B-cells-lymfocytiskt lymfom
+C838A;;DGPROP;18X02;B-cells-lymfocytiskt lymfom;Deleted 2009-12-31 B-cells-lymfocytiskt lymfom
+C838A;;MDC;17;B-cells-lymfocytiskt lymfom;Deleted 2009-12-31 B-cells-lymfocytiskt lymfom
+C838A;;COMPL;17C04;B-cells-lymfocytiskt lymfom;Deleted 2009-12-31 B-cells-lymfocytiskt lymfom
+C838A;;DGCAT;17M02;B-cells-lymfocytiskt lymfom;Deleted 2009-12-31 B-cells-lymfocytiskt lymfom
+C838A;;DGPROP;17X99;B-cells-lymfocytiskt lymfom;Deleted 2009-12-31 B-cells-lymfocytiskt lymfom
+C838B;;DGPROP;17X99;Lymfoplamacytiskt lymfom (immunocytom);Deleted 2009-12-31 Lymfoplamacytiskt lymfom (immunocytom)
+C838B;;PDGPRO;18P01;Lymfoplamacytiskt lymfom (immunocytom);Deleted 2009-12-31 Lymfoplamacytiskt lymfom (immunocytom)
+C838B;;DGPROP;23X01;Lymfoplamacytiskt lymfom (immunocytom);Deleted 2009-12-31 Lymfoplamacytiskt lymfom (immunocytom)
+C838B;;DGPROP;15X98;Lymfoplamacytiskt lymfom (immunocytom);Deleted 2009-12-31 Lymfoplamacytiskt lymfom (immunocytom)
+C838B;;MDC;17;Lymfoplamacytiskt lymfom (immunocytom);Deleted 2009-12-31 Lymfoplamacytiskt lymfom (immunocytom)
+C838B;;DGCAT;17M02;Lymfoplamacytiskt lymfom (immunocytom);Deleted 2009-12-31 Lymfoplamacytiskt lymfom (immunocytom)
+C838B;;COMPL;17C04;Lymfoplamacytiskt lymfom (immunocytom);Deleted 2009-12-31 Lymfoplamacytiskt lymfom (immunocytom)
+C838B;;DGPROP;18X02;Lymfoplamacytiskt lymfom (immunocytom);Deleted 2009-12-31 Lymfoplamacytiskt lymfom (immunocytom)
+C838C;;DGPROP;15X98;Mantelcellslymfom;Deleted 2009-12-31 Mantelcellslymfom
+C838C;;PDGPRO;18P01;Mantelcellslymfom;Deleted 2009-12-31 Mantelcellslymfom
+C838C;;DGPROP;23X01;Mantelcellslymfom;Deleted 2009-12-31 Mantelcellslymfom
+C838C;;DGPROP;18X02;Mantelcellslymfom;Deleted 2009-12-31 Mantelcellslymfom
+C838C;;MDC;17;Mantelcellslymfom;Deleted 2009-12-31 Mantelcellslymfom
+C838C;;DGCAT;17M02;Mantelcellslymfom;Deleted 2009-12-31 Mantelcellslymfom
+C838C;;COMPL;17C04;Mantelcellslymfom;Deleted 2009-12-31 Mantelcellslymfom
+C838C;;DGPROP;17X99;Mantelcellslymfom;Deleted 2009-12-31 Mantelcellslymfom
+C838D;;DGPROP;17X99;Marginalzonslymfom;Deleted 2009-12-31 Marginalzonslymfom
+C838D;;COMPL;17C04;Marginalzonslymfom;Deleted 2009-12-31 Marginalzonslymfom
+C838D;;DGPROP;23X01;Marginalzonslymfom;Deleted 2009-12-31 Marginalzonslymfom
+C838D;;DGPROP;15X98;Marginalzonslymfom;Deleted 2009-12-31 Marginalzonslymfom
+C838D;;PDGPRO;18P01;Marginalzonslymfom;Deleted 2009-12-31 Marginalzonslymfom
+C838D;;MDC;17;Marginalzonslymfom;Deleted 2009-12-31 Marginalzonslymfom
+C838D;;DGCAT;17M02;Marginalzonslymfom;Deleted 2009-12-31 Marginalzonslymfom
+C838D;;DGPROP;18X02;Marginalzonslymfom;Deleted 2009-12-31 Marginalzonslymfom
+C838E;;DGPROP;15X98;Diffust CB/CC lymfom;Deleted 2009-12-31 Diffust CB/CC lymfom
+C838E;;PDGPRO;18P01;Diffust CB/CC lymfom;Deleted 2009-12-31 Diffust CB/CC lymfom
+C838E;;DGPROP;23X01;Diffust CB/CC lymfom;Deleted 2009-12-31 Diffust CB/CC lymfom
+C838E;;DGPROP;18X02;Diffust CB/CC lymfom;Deleted 2009-12-31 Diffust CB/CC lymfom
+C838E;;DGPROP;17X99;Diffust CB/CC lymfom;Deleted 2009-12-31 Diffust CB/CC lymfom
+C838E;;MDC;17;Diffust CB/CC lymfom;Deleted 2009-12-31 Diffust CB/CC lymfom
+C838E;;COMPL;17C04;Diffust CB/CC lymfom;Deleted 2009-12-31 Diffust CB/CC lymfom
+C838E;;DGCAT;17M02;Diffust CB/CC lymfom;Deleted 2009-12-31 Diffust CB/CC lymfom
+C842;;DGPROP;15X98;T-zonslymfom;Deleted 2009-12-31 T-zonslymfom
+C842;;PDGPRO;18P01;T-zonslymfom;Deleted 2009-12-31 T-zonslymfom
+C842;;DGPROP;18X02;T-zonslymfom;Deleted 2009-12-31 T-zonslymfom
+C842;;MDC;17;T-zonslymfom;Deleted 2009-12-31 T-zonslymfom
+C842;;DGCAT;17M02;T-zonslymfom;Deleted 2009-12-31 T-zonslymfom
+C842;;COMPL;17C04;T-zonslymfom;Deleted 2009-12-31 T-zonslymfom
+C842;;DGPROP;23X01;T-zonslymfom;Deleted 2009-12-31 T-zonslymfom
+C842;;DGPROP;17X99;T-zonslymfom;Deleted 2009-12-31 T-zonslymfom
+C843;;MDC;17;Lymfoepitelioid-lymfom;Deleted 2009-12-31 Lymfoepitelioid-lymfom
+C843;;PDGPRO;18P01;Lymfoepitelioid-lymfom;Deleted 2009-12-31 Lymfoepitelioid-lymfom
+C843;;DGPROP;23X01;Lymfoepitelioid-lymfom;Deleted 2009-12-31 Lymfoepitelioid-lymfom
+C843;;DGPROP;18X02;Lymfoepitelioid-lymfom;Deleted 2009-12-31 Lymfoepitelioid-lymfom
+C843;;DGPROP;17X99;Lymfoepitelioid-lymfom;Deleted 2009-12-31 Lymfoepitelioid-lymfom
+C843;;DGCAT;17M02;Lymfoepitelioid-lymfom;Deleted 2009-12-31 Lymfoepitelioid-lymfom
+C843;;COMPL;17C04;Lymfoepitelioid-lymfom;Deleted 2009-12-31 Lymfoepitelioid-lymfom
+C843;;DGPROP;15X98;Lymfoepitelioid-lymfom;Deleted 2009-12-31 Lymfoepitelioid-lymfom
+C845A;;DGPROP;15X98;T-cells lymfocytiskt lymfom;Deleted 2009-12-31 T-cells lymfocytiskt lymfom
+C845A;;DGPROP;23X01;T-cells lymfocytiskt lymfom;Deleted 2009-12-31 T-cells lymfocytiskt lymfom
+C845A;;PDGPRO;18P01;T-cells lymfocytiskt lymfom;Deleted 2009-12-31 T-cells lymfocytiskt lymfom
+C845A;;DGPROP;18X02;T-cells lymfocytiskt lymfom;Deleted 2009-12-31 T-cells lymfocytiskt lymfom
+C845A;;DGPROP;17X99;T-cells lymfocytiskt lymfom;Deleted 2009-12-31 T-cells lymfocytiskt lymfom
+C845A;;MDC;17;T-cells lymfocytiskt lymfom;Deleted 2009-12-31 T-cells lymfocytiskt lymfom
+C845A;;COMPL;17C04;T-cells lymfocytiskt lymfom;Deleted 2009-12-31 T-cells lymfocytiskt lymfom
+C845A;;DGCAT;17M02;T-cells lymfocytiskt lymfom;Deleted 2009-12-31 T-cells lymfocytiskt lymfom
+C845B;;DGPROP;18X02;T-lymfoblastlymfom;Deleted 2009-12-31 T-lymfoblastlymfom
+C845B;;MDC;17;T-lymfoblastlymfom;Deleted 2009-12-31 T-lymfoblastlymfom
+C845B;;PDGPRO;18P01;T-lymfoblastlymfom;Deleted 2009-12-31 T-lymfoblastlymfom
+C845B;;DGPROP;23X01;T-lymfoblastlymfom;Deleted 2009-12-31 T-lymfoblastlymfom
+C845B;;DGPROP;17X99;T-lymfoblastlymfom;Deleted 2009-12-31 T-lymfoblastlymfom
+C845B;;COMPL;17C04;T-lymfoblastlymfom;Deleted 2009-12-31 T-lymfoblastlymfom
+C845B;;DGCAT;17M02;T-lymfoblastlymfom;Deleted 2009-12-31 T-lymfoblastlymfom
+C845B;;DGPROP;15X98;T-lymfoblastlymfom;Deleted 2009-12-31 T-lymfoblastlymfom
+C845C;;PDGPRO;18P01;Intestinalt T-cellslymfom;Deleted 2009-12-31 Intestinalt T-cellslymfom
+C845C;;COMPL;17C04;Intestinalt T-cellslymfom;Deleted 2009-12-31 Intestinalt T-cellslymfom
+C845C;;DGCAT;17M02;Intestinalt T-cellslymfom;Deleted 2009-12-31 Intestinalt T-cellslymfom
+C845C;;MDC;17;Intestinalt T-cellslymfom;Deleted 2009-12-31 Intestinalt T-cellslymfom
+C845C;;DGPROP;17X99;Intestinalt T-cellslymfom;Deleted 2009-12-31 Intestinalt T-cellslymfom
+C845C;;DGPROP;15X98;Intestinalt T-cellslymfom;Deleted 2009-12-31 Intestinalt T-cellslymfom
+C845C;;DGPROP;18X02;Intestinalt T-cellslymfom;Deleted 2009-12-31 Intestinalt T-cellslymfom
+C845C;;DGPROP;23X01;Intestinalt T-cellslymfom;Deleted 2009-12-31 Intestinalt T-cellslymfom
+C845D;;DGPROP;23X01;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C845D;;DGPROP;18X02;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C845D;;DGPROP;15X98;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C845D;;DGPROP;17X99;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C845D;;MDC;17;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C845D;;COMPL;17C04;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C845D;;PDGPRO;18P01;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C845D;;DGCAT;17M02;Anaplastiskt storcelligt lymfom;Deleted 2009-12-31 Anaplastiskt storcelligt lymfom
+C845E;;DGPROP;15X98;T-cellslymfom, lÜgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, lÜgmalignt, ospecificerat
+C845E;;PDGPRO;18P01;T-cellslymfom, lÜgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, lÜgmalignt, ospecificerat
+C845E;;DGPROP;23X01;T-cellslymfom, lÜgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, lÜgmalignt, ospecificerat
+C845E;;DGPROP;18X02;T-cellslymfom, lÜgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, lÜgmalignt, ospecificerat
+C845E;;MDC;17;T-cellslymfom, lÜgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, lÜgmalignt, ospecificerat
+C845E;;COMPL;17C04;T-cellslymfom, lÜgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, lÜgmalignt, ospecificerat
+C845E;;DGCAT;17M02;T-cellslymfom, lÜgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, lÜgmalignt, ospecificerat
+C845E;;DGPROP;17X99;T-cellslymfom, lÜgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, lÜgmalignt, ospecificerat
+C845F;;DGPROP;17X99;T-cellslymfom, hîgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, hîgmalignt, ospecificerat
+C845F;;PDGPRO;18P01;T-cellslymfom, hîgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, hîgmalignt, ospecificerat
+C845F;;DGPROP;23X01;T-cellslymfom, hîgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, hîgmalignt, ospecificerat
+C845F;;DGPROP;15X98;T-cellslymfom, hîgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, hîgmalignt, ospecificerat
+C845F;;MDC;17;T-cellslymfom, hîgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, hîgmalignt, ospecificerat
+C845F;;DGCAT;17M02;T-cellslymfom, hîgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, hîgmalignt, ospecificerat
+C845F;;COMPL;17C04;T-cellslymfom, hîgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, hîgmalignt, ospecificerat
+C845F;;DGPROP;18X02;T-cellslymfom, hîgmalignt, ospecificerat;Deleted 2009-12-31 T-cellslymfom, hîgmalignt, ospecificerat
+C845X;;DGPROP;15X98;T-cellslymfom, ospecificerat;Deleted 2009-12-31 T-cellslymfom, ospecificerat
+C845X;;PDGPRO;18P01;T-cellslymfom, ospecificerat;Deleted 2009-12-31 T-cellslymfom, ospecificerat
+C845X;;DGPROP;23X01;T-cellslymfom, ospecificerat;Deleted 2009-12-31 T-cellslymfom, ospecificerat
+C845X;;DGPROP;17X99;T-cellslymfom, ospecificerat;Deleted 2009-12-31 T-cellslymfom, ospecificerat
+C845X;;MDC;17;T-cellslymfom, ospecificerat;Deleted 2009-12-31 T-cellslymfom, ospecificerat
+C845X;;DGCAT;17M02;T-cellslymfom, ospecificerat;Deleted 2009-12-31 T-cellslymfom, ospecificerat
+C845X;;COMPL;17C04;T-cellslymfom, ospecificerat;Deleted 2009-12-31 T-cellslymfom, ospecificerat
+C845X;;DGPROP;18X02;T-cellslymfom, ospecificerat;Deleted 2009-12-31 T-cellslymfom, ospecificerat
+C850;;COMPL;17C04;Lymphosarcoma;Deleted 2009-12-31 Lymphosarcoma
+C850;;DGCAT;17M02;Lymphosarcoma;Deleted 2009-12-31 Lymphosarcoma
+C850;;MDC;17;Lymphosarcoma;Deleted 2009-12-31 Lymphosarcoma
+C850;;DGPROP;17X99;Lymphosarcoma;Deleted 2009-12-31 Lymphosarcoma
+C850;;DGPROP;15X98;Lymphosarcoma;Deleted 2009-12-31 Lymphosarcoma
+C850;;DGPROP;23X01;Lymphosarcoma;Deleted 2009-12-31 Lymphosarcoma
+C859X;;DGPROP;18X02;Non-Hodgkinlymfom, ospecificerat;Deleted 2009-12-31 Non-Hodgkinlymfom, ospecificerat
+C859X;;DGPROP;23X01;Non-Hodgkinlymfom, ospecificerat;Deleted 2009-12-31 Non-Hodgkinlymfom, ospecificerat
+C859X;;DGPROP;15X98;Non-Hodgkinlymfom, ospecificerat;Deleted 2009-12-31 Non-Hodgkinlymfom, ospecificerat
+C859X;;DGPROP;17X99;Non-Hodgkinlymfom, ospecificerat;Deleted 2009-12-31 Non-Hodgkinlymfom, ospecificerat
+C859X;;MDC;17;Non-Hodgkinlymfom, ospecificerat;Deleted 2009-12-31 Non-Hodgkinlymfom, ospecificerat
+C859X;;DGCAT;17M02;Non-Hodgkinlymfom, ospecificerat;Deleted 2009-12-31 Non-Hodgkinlymfom, ospecificerat
+C859X;;COMPL;17C04;Non-Hodgkinlymfom, ospecificerat;Deleted 2009-12-31 Non-Hodgkinlymfom, ospecificerat
+C859X;;PDGPRO;18P01;Non-Hodgkinlymfom, ospecificerat;Deleted 2009-12-31 Non-Hodgkinlymfom, ospecificerat
+C881;;MDC;17;Alpha heavy chain disease;Deleted 2009-12-31 Alpha heavy chain disease
+C881;;DGPROP;23X01;Alpha heavy chain disease;Deleted 2009-12-31 Alpha heavy chain disease
+C881;;DGPROP;15X98;Alpha heavy chain disease;Deleted 2009-12-31 Alpha heavy chain disease
+C881;;DGCAT;17M02;Alpha heavy chain disease;Deleted 2009-12-31 Alpha heavy chain disease
+C881;;DGPROP;17X99;Alpha heavy chain disease;Deleted 2009-12-31 Alpha heavy chain disease
+C932;;MDC;17;Subacute monocytic leukaemia;Deleted 2009-12-31 Subacute monocytic leukaemia
+C932;;DGPROP;23X01;Subacute monocytic leukaemia;Deleted 2009-12-31 Subacute monocytic leukaemia
+C932;;DGPROP;17X01;Subacute monocytic leukaemia;Deleted 2009-12-31 Subacute monocytic leukaemia
+C932;;DGCAT;17M02;Subacute monocytic leukaemia;Deleted 2009-12-31 Subacute monocytic leukaemia
+C932;;COMPL;17C05;Subacute monocytic leukaemia;Deleted 2009-12-31 Subacute monocytic leukaemia
+C932;;DGPROP;17X99;Subacute monocytic leukaemia;Deleted 2009-12-31 Subacute monocytic leukaemia
+C932;;DGPROP;15X98;Subacute monocytic leukaemia;Deleted 2009-12-31 Subacute monocytic leukaemia
+C941;;DGPROP;23X01;Kronisk erytremi;Deleted 2009-12-31 Kronisk erytremi
+C941;;COMPL;17C05;Kronisk erytremi;Deleted 2009-12-31 Kronisk erytremi
+C941;;DGCAT;17M02;Kronisk erytremi;Deleted 2009-12-31 Kronisk erytremi
+C941;;MDC;17;Kronisk erytremi;Deleted 2009-12-31 Kronisk erytremi
+C941;;DGPROP;17X99;Kronisk erytremi;Deleted 2009-12-31 Kronisk erytremi
+C941;;DGPROP;15X98;Kronisk erytremi;Deleted 2009-12-31 Kronisk erytremi
+C941;;DGPROP;17X01;Kronisk erytremi;Deleted 2009-12-31 Kronisk erytremi
+C945;;DGPROP;23X01;Akut myelofibros;Deleted 2009-12-31 Akut myelofibros
+C945;;DGPROP;17X01;Akut myelofibros;Deleted 2009-12-31 Akut myelofibros
+C945;;DGPROP;15X98;Akut myelofibros;Deleted 2009-12-31 Akut myelofibros
+C945;;DGPROP;17X99;Akut myelofibros;Deleted 2009-12-31 Akut myelofibros
+C945;;MDC;17;Akut myelofibros;Deleted 2009-12-31 Akut myelofibros
+C945;;COMPL;17C05;Akut myelofibros;Deleted 2009-12-31 Akut myelofibros
+C945;;DGCAT;17M02;Akut myelofibros;Deleted 2009-12-31 Akut myelofibros
+C952;;DGPROP;15X98;Subacute leukaemia of unspecified cell type;Deleted 2009-12-31 Subacute leukaemia of unspecified cell type
+C952;;DGPROP;17X99;Subacute leukaemia of unspecified cell type;Deleted 2009-12-31 Subacute leukaemia of unspecified cell type
+C952;;DGPROP;23X01;Subacute leukaemia of unspecified cell type;Deleted 2009-12-31 Subacute leukaemia of unspecified cell type
+C952;;COMPL;17C05;Subacute leukaemia of unspecified cell type;Deleted 2009-12-31 Subacute leukaemia of unspecified cell type
+C952;;DGCAT;17M02;Subacute leukaemia of unspecified cell type;Deleted 2009-12-31 Subacute leukaemia of unspecified cell type
+C952;;MDC;17;Subacute leukaemia of unspecified cell type;Deleted 2009-12-31 Subacute leukaemia of unspecified cell type
+C961;;DGPROP;17X99;Malign histiocytos;Deleted 2009-12-31 Malign histiocytos
+C961;;DGPROP;15X98;Malign histiocytos;Deleted 2009-12-31 Malign histiocytos
+C961;;DGPROP;23X01;Malign histiocytos;Deleted 2009-12-31 Malign histiocytos
+C961;;COMPL;17C04;Malign histiocytos;Deleted 2009-12-31 Malign histiocytos
+C961;;DGCAT;17M02;Malign histiocytos;Deleted 2009-12-31 Malign histiocytos
+C961;;MDC;17;Malign histiocytos;Deleted 2009-12-31 Malign histiocytos
+C963;;DGCAT;17M02;ékta histiocytÑrt lymfom;Deleted 2009-12-31 ékta histiocytÑrt lymfom
+C963;;MDC;17;ékta histiocytÑrt lymfom;Deleted 2009-12-31 ékta histiocytÑrt lymfom
+C963;;DGPROP;17X99;ékta histiocytÑrt lymfom;Deleted 2009-12-31 ékta histiocytÑrt lymfom
+C963;;DGPROP;15X98;ékta histiocytÑrt lymfom;Deleted 2009-12-31 ékta histiocytÑrt lymfom
+C963;;DGPROP;23X01;ékta histiocytÑrt lymfom;Deleted 2009-12-31 ékta histiocytÑrt lymfom
+C963;;COMPL;17C04;ékta histiocytÑrt lymfom;Deleted 2009-12-31 ékta histiocytÑrt lymfom
+D463;;DGPROP;15X98;RefraktÑr anemi med îverskott av blastceller i transformationsfas;Deleted 2009-12-31 RefraktÑr anemi med îverskott av blastceller i transformationsfas
+D463;;DGCAT;17M02;RefraktÑr anemi med îverskott av blastceller i transformationsfas;Deleted 2009-12-31 RefraktÑr anemi med îverskott av blastceller i transformationsfas
+D463;;MDC;17;RefraktÑr anemi med îverskott av blastceller i transformationsfas;Deleted 2009-12-31 RefraktÑr anemi med îverskott av blastceller i transformationsfas
+D463;;DGPROP;17X99;RefraktÑr anemi med îverskott av blastceller i transformationsfas;Deleted 2009-12-31 RefraktÑr anemi med îverskott av blastceller i transformationsfas
+D752;;PDGPRO;18P01;Essentiell trombocytos;Deleted 2009-12-31 Essentiell trombocytos
+D752;;DGCAT;16M99;Essentiell trombocytos;Deleted 2009-12-31 Essentiell trombocytos
+D752;;MDC;16;Essentiell trombocytos;Deleted 2009-12-31 Essentiell trombocytos
+D752;;DGPROP;16X99;Essentiell trombocytos;Deleted 2009-12-31 Essentiell trombocytos
+D752;;DGPROP;15X98;Essentiell trombocytos;Deleted 2009-12-31 Essentiell trombocytos
+D760;;DGPROP;15X98;Histiocytos av Langerhans celler som ej klassificeras annorstÑdes;Deleted 2009-12-31 Histiocytos av Langerhans celler som ej klassificeras annorstÑdes
+D760;;DGPROP;16X99;Histiocytos av Langerhans celler som ej klassificeras annorstÑdes;Deleted 2009-12-31 Histiocytos av Langerhans celler som ej klassificeras annorstÑdes
+D760;;DGCAT;16M99;Histiocytos av Langerhans celler som ej klassificeras annorstÑdes;Deleted 2009-12-31 Histiocytos av Langerhans celler som ej klassificeras annorstÑdes
+D760;;MDC;16;Histiocytos av Langerhans celler som ej klassificeras annorstÑdes;Deleted 2009-12-31 Histiocytos av Langerhans celler som ej klassificeras annorstÑdes
+D760A;;DGCAT;16M99;Eosinofilt granulom;Deleted 2009-12-31 Eosinofilt granulom
+D760A;;MDC;16;Eosinofilt granulom;Deleted 2009-12-31 Eosinofilt granulom
+D760A;;DGPROP;16X99;Eosinofilt granulom;Deleted 2009-12-31 Eosinofilt granulom
+D760A;;DGPROP;15X98;Eosinofilt granulom;Deleted 2009-12-31 Eosinofilt granulom
+D760B;;DGPROP;16X99;Hand-SchÅller-Christians sjukdom;Deleted 2009-12-31 Hand-SchÅller-Christians sjukdom
+D760B;;MDC;16;Hand-SchÅller-Christians sjukdom;Deleted 2009-12-31 Hand-SchÅller-Christians sjukdom
+D760B;;DGCAT;16M99;Hand-SchÅller-Christians sjukdom;Deleted 2009-12-31 Hand-SchÅller-Christians sjukdom
+D760B;;DGPROP;15X98;Hand-SchÅller-Christians sjukdom;Deleted 2009-12-31 Hand-SchÅller-Christians sjukdom
+D760C;;DGCAT;16M99;Histiocytos X, kronisk;Deleted 2009-12-31 Histiocytos X, kronisk
+D760C;;MDC;16;Histiocytos X, kronisk;Deleted 2009-12-31 Histiocytos X, kronisk
+D760C;;DGPROP;16X99;Histiocytos X, kronisk;Deleted 2009-12-31 Histiocytos X, kronisk
+D760C;;DGPROP;15X98;Histiocytos X, kronisk;Deleted 2009-12-31 Histiocytos X, kronisk
+D760W;;DGPROP;15X98;Annan histiocytos av Langerhans celler som ej klassificeras annorstÑdes;Deleted 2009-12-31 Annan histiocytos av Langerhans celler som ej klassificeras annorstÑdes
+D760W;;DGCAT;16M99;Annan histiocytos av Langerhans celler som ej klassificeras annorstÑdes;Deleted 2009-12-31 Annan histiocytos av Langerhans celler som ej klassificeras annorstÑdes
+D760W;;MDC;16;Annan histiocytos av Langerhans celler som ej klassificeras annorstÑdes;Deleted 2009-12-31 Annan histiocytos av Langerhans celler som ej klassificeras annorstÑdes
+D760W;;DGPROP;16X99;Annan histiocytos av Langerhans celler som ej klassificeras annorstÑdes;Deleted 2009-12-31 Annan histiocytos av Langerhans celler som ej klassificeras annorstÑdes
+D863C;;MDC;09;Erythema nodosum vid sarkoidos;Deleted 2009-12-31 Erythema nodosum vid sarkoidos
+D863C;;DGPROP;09X99;Erythema nodosum vid sarkoidos;Deleted 2009-12-31 Erythema nodosum vid sarkoidos
+D863C;;DGPROP;15X98;Erythema nodosum vid sarkoidos;Deleted 2009-12-31 Erythema nodosum vid sarkoidos
+D863C;;DGCAT;09M99;Erythema nodosum vid sarkoidos;Deleted 2009-12-31 Erythema nodosum vid sarkoidos
+H547;;PDGPRO;18P01;ObestÑmd synnedsÑttning;Deleted 2009-12-31 ObestÑmd synnedsÑttning
+H547;;DGPROP;15X98;ObestÑmd synnedsÑttning;Deleted 2009-12-31 ObestÑmd synnedsÑttning
+H547;;MDC;02;ObestÑmd synnedsÑttning;Deleted 2009-12-31 ObestÑmd synnedsÑttning
+H547;;DGCAT;02M99;ObestÑmd synnedsÑttning;Deleted 2009-12-31 ObestÑmd synnedsÑttning
+H547;;DGPROP;02X99;ObestÑmd synnedsÑttning;Deleted 2009-12-31 ObestÑmd synnedsÑttning
+I498A;;DGPROP;15X98; Sinusbradykardi;Deleted 2009-12-31  Sinusbradykardi
+I498A;;PDGPRO;05P10; Sinusbradykardi;Deleted 2009-12-31  Sinusbradykardi
+I498A;;MDC;05; Sinusbradykardi;Deleted 2009-12-31  Sinusbradykardi
+I498A;;DGCAT;05M10; Sinusbradykardi;Deleted 2009-12-31  Sinusbradykardi
+I498A;;DGPROP;05X99; Sinusbradykardi;Deleted 2009-12-31  Sinusbradykardi
+I498B;;DGCAT;05M10; Sinustakykardi;Deleted 2009-12-31  Sinustakykardi
+I498B;;MDC;05; Sinustakykardi;Deleted 2009-12-31  Sinustakykardi
+I498B;;DGPROP;05X99; Sinustakykardi;Deleted 2009-12-31  Sinustakykardi
+I498B;;DGPROP;15X98; Sinustakykardi;Deleted 2009-12-31  Sinustakykardi
+I498B;;PDGPRO;05P10; Sinustakykardi;Deleted 2009-12-31  Sinustakykardi
+I739D;;MDC;05; Vasodilatation;Deleted 2009-12-31  Vasodilatation
+I739D;;PDGPRO;05P10; Vasodilatation;Deleted 2009-12-31  Vasodilatation
+I739D;;DGPROP;05X99; Vasodilatation;Deleted 2009-12-31  Vasodilatation
+I739D;;DGCAT;05M06; Vasodilatation;Deleted 2009-12-31  Vasodilatation
+I739D;;DGPROP;15X98; Vasodilatation;Deleted 2009-12-31  Vasodilatation
+K350;;DGPROP;06X99;Akut appendicit med allmÑn peritonit;Deleted 2009-12-31 Akut appendicit med allmÑn peritonit
+K350;;DGPROP;06X01;Akut appendicit med allmÑn peritonit;Deleted 2009-12-31 Akut appendicit med allmÑn peritonit
+K350;;MDC;06;Akut appendicit med allmÑn peritonit;Deleted 2009-12-31 Akut appendicit med allmÑn peritonit
+K350;;DGCAT;06M99;Akut appendicit med allmÑn peritonit;Deleted 2009-12-31 Akut appendicit med allmÑn peritonit
+K350;;COMPL;06C03;Akut appendicit med allmÑn peritonit;Deleted 2009-12-31 Akut appendicit med allmÑn peritonit
+K350;;DGPROP;15X98;Akut appendicit med allmÑn peritonit;Deleted 2009-12-31 Akut appendicit med allmÑn peritonit
+K351;;COMPL;06C03;Akut appendicit med peritonealabscess;Deleted 2009-12-31 Akut appendicit med peritonealabscess
+K351;;DGCAT;06M99;Akut appendicit med peritonealabscess;Deleted 2009-12-31 Akut appendicit med peritonealabscess
+K351;;MDC;06;Akut appendicit med peritonealabscess;Deleted 2009-12-31 Akut appendicit med peritonealabscess
+K351;;DGPROP;06X99;Akut appendicit med peritonealabscess;Deleted 2009-12-31 Akut appendicit med peritonealabscess
+K351;;DGPROP;06X01;Akut appendicit med peritonealabscess;Deleted 2009-12-31 Akut appendicit med peritonealabscess
+K351;;DGPROP;15X98;Akut appendicit med peritonealabscess;Deleted 2009-12-31 Akut appendicit med peritonealabscess
+K359;;COMPL;06C03;Akut appendicit, ospecificerad;Deleted 2009-12-31 Akut appendicit, ospecificerad
+K359;;DGPROP;06X99;Akut appendicit, ospecificerad;Deleted 2009-12-31 Akut appendicit, ospecificerad
+K359;;DGPROP;15X98;Akut appendicit, ospecificerad;Deleted 2009-12-31 Akut appendicit, ospecificerad
+K359;;DGCAT;06M99;Akut appendicit, ospecificerad;Deleted 2009-12-31 Akut appendicit, ospecificerad
+K359;;MDC;06;Akut appendicit, ospecificerad;Deleted 2009-12-31 Akut appendicit, ospecificerad
+N180;;COMPL;11C08;Njursjukdom i slutstadiet;Deleted 2009-12-31 Njursjukdom i slutstadiet
+N180;;DGCAT;11M01;Njursjukdom i slutstadiet;Deleted 2009-12-31 Njursjukdom i slutstadiet
+N180;;MDC;11;Njursjukdom i slutstadiet;Deleted 2009-12-31 Njursjukdom i slutstadiet
+N180;;DGPROP;11X99;Njursjukdom i slutstadiet;Deleted 2009-12-31 Njursjukdom i slutstadiet
+N180;;DGPROP;15X98;Njursjukdom i slutstadiet;Deleted 2009-12-31 Njursjukdom i slutstadiet
+N188;;DGCAT;11M01;Annan kronisk njursvikt;Deleted 2009-12-31 Annan kronisk njursvikt
+N188;;DGPROP;15X98;Annan kronisk njursvikt;Deleted 2009-12-31 Annan kronisk njursvikt
+N188;;MDC;11;Annan kronisk njursvikt;Deleted 2009-12-31 Annan kronisk njursvikt
+N188;;COMPL;11C08;Annan kronisk njursvikt;Deleted 2009-12-31 Annan kronisk njursvikt
+N188;;DGPROP;11X99;Annan kronisk njursvikt;Deleted 2009-12-31 Annan kronisk njursvikt
+O141C;;DGCAT;14M99; HELLP-syndrom;Deleted 2009-12-31  HELLP-syndrom
+O141C;;DGPROP;14X10; HELLP-syndrom;Deleted 2009-12-31  HELLP-syndrom
+O141C;;DGPROP;14X11; HELLP-syndrom;Deleted 2009-12-31  HELLP-syndrom
+O141C;;COMPL;14C07; HELLP-syndrom;Deleted 2009-12-31  HELLP-syndrom
+O141C;;DGPROP;14X99; HELLP-syndrom;Deleted 2009-12-31  HELLP-syndrom
+O141C;;MDC;14; HELLP-syndrom;Deleted 2009-12-31  HELLP-syndrom
+Q351;;DGPROP;03X99;Cleft hard palate, unilateral;Deleted 2009-12-31 Cleft hard palate, unilateral
+Q351;;DGPROP;03X04;Cleft hard palate, unilateral;Deleted 2009-12-31 Cleft hard palate, unilateral
+Q351;;MDC;03;Cleft hard palate, unilateral;Deleted 2009-12-31 Cleft hard palate, unilateral
+Q351;;DGCAT;03M99;Cleft hard palate, unilateral;Deleted 2009-12-31 Cleft hard palate, unilateral
+Q351;;PDGPRO;00P11;Cleft hard palate, unilateral;Deleted 2009-12-31 Cleft hard palate, unilateral
+Q370;;MDC;03;Cleft hard palate with cleft lip, bilateral;Deleted 2009-12-31 Cleft hard palate with cleft lip, bilateral
+Q370;;PDGPRO;00P11;Cleft hard palate with cleft lip, bilateral;Deleted 2009-12-31 Cleft hard palate with cleft lip, bilateral
+Q370;;DGPROP;03X99;Cleft hard palate with cleft lip, bilateral;Deleted 2009-12-31 Cleft hard palate with cleft lip, bilateral
+Q370;;DGCAT;03M99;Cleft hard palate with cleft lip, bilateral;Deleted 2009-12-31 Cleft hard palate with cleft lip, bilateral
+Q370;;DGPROP;03X04;Cleft hard palate with cleft lip, bilateral;Deleted 2009-12-31 Cleft hard palate with cleft lip, bilateral
+Q371;;DGCAT;03M99;Cleft hard palate with cleft lip, unilateral;Deleted 2009-12-31 Cleft hard palate with cleft lip, unilateral
+Q371;;MDC;03;Cleft hard palate with cleft lip, unilateral;Deleted 2009-12-31 Cleft hard palate with cleft lip, unilateral
+Q371;;DGPROP;03X99;Cleft hard palate with cleft lip, unilateral;Deleted 2009-12-31 Cleft hard palate with cleft lip, unilateral
+Q371;;DGPROP;03X04;Cleft hard palate with cleft lip, unilateral;Deleted 2009-12-31 Cleft hard palate with cleft lip, unilateral
+Q371;;PDGPRO;00P11;Cleft hard palate with cleft lip, unilateral;Deleted 2009-12-31 Cleft hard palate with cleft lip, unilateral
+Z500;;MDC;23;HjÑrtrehabilitering;Deleted 2009-12-31 HjÑrtrehabilitering
+Z500;;PDGPRO;05P10;HjÑrtrehabilitering;Deleted 2009-12-31 HjÑrtrehabilitering
+Z500;;DGCAT;23M01;HjÑrtrehabilitering;Deleted 2009-12-31 HjÑrtrehabilitering
+Z501;;DGCAT;23M01;Annan fysikalisk behandling;Deleted 2009-12-31 Annan fysikalisk behandling
+Z501;;MDC;23;Annan fysikalisk behandling;Deleted 2009-12-31 Annan fysikalisk behandling
+Z502;;DGCAT;19M20;Rehabilitering av alkoholmissbrukare;Deleted 2009-12-31 Rehabilitering av alkoholmissbrukare
+Z502;;MDC;19;Rehabilitering av alkoholmissbrukare;Deleted 2009-12-31 Rehabilitering av alkoholmissbrukare
+Z502;;DGPROP;19X99;Rehabilitering av alkoholmissbrukare;Deleted 2009-12-31 Rehabilitering av alkoholmissbrukare
+Z503;;DGCAT;19M20;Rehabilitering av lÑkemedelsmissbrukare;Deleted 2009-12-31 Rehabilitering av lÑkemedelsmissbrukare
+Z503;;MDC;19;Rehabilitering av lÑkemedelsmissbrukare;Deleted 2009-12-31 Rehabilitering av lÑkemedelsmissbrukare
+Z503;;DGPROP;19X99;Rehabilitering av lÑkemedelsmissbrukare;Deleted 2009-12-31 Rehabilitering av lÑkemedelsmissbrukare
+Z504;;MDC;23;Psykoterapi som ej klassificeras annorstÑdes;Deleted 2009-12-31 Psykoterapi som ej klassificeras annorstÑdes
+Z504;;DGCAT;23M01;Psykoterapi som ej klassificeras annorstÑdes;Deleted 2009-12-31 Psykoterapi som ej klassificeras annorstÑdes
+Z505;;DGCAT;23M01;Talterapi;Deleted 2009-12-31 Talterapi
+Z505;;MDC;23;Talterapi;Deleted 2009-12-31 Talterapi
+Z506;;DGCAT;23M99;Ortoptisk trÑning;Deleted 2009-12-31 Ortoptisk trÑning
+Z506;;MDC;23;Ortoptisk trÑning;Deleted 2009-12-31 Ortoptisk trÑning
+Z507;;DGCAT;23M01;Arbetsterapi och yrkesinriktad rehabilitering som ej klassificeras annorstÑdes;Deleted 2009-12-31 Arbetsterapi och yrkesinriktad rehabilitering som ej klassificeras annorstÑdes
+Z507;;MDC;23;Arbetsterapi och yrkesinriktad rehabilitering som ej klassificeras annorstÑdes;Deleted 2009-12-31 Arbetsterapi och yrkesinriktad rehabilitering som ej klassificeras annorstÑdes
+Z508;;DGCAT;23M01;VÜrd fîr andra specificerade rehabiliteringsÜtgÑrder;Deleted 2009-12-31 VÜrd fîr andra specificerade rehabiliteringsÜtgÑrder
+Z508;;MDC;23;VÜrd fîr andra specificerade rehabiliteringsÜtgÑrder;Deleted 2009-12-31 VÜrd fîr andra specificerade rehabiliteringsÜtgÑrder
+Z509;;DGCAT;23M01;RehabiliteringsÜtgÑrd, ospecificerad;Deleted 2009-12-31 RehabiliteringsÜtgÑrd, ospecificerad
+Z509;;MDC;23;RehabiliteringsÜtgÑrd, ospecificerad;Deleted 2009-12-31 RehabiliteringsÜtgÑrd, ospecificerad
+U800;;MDC;99;Bakteriell resistens mot penicillin;Deleted 2010-12-31 Bakteriell resistens mot penicillin
+U800;;DGPROP;15X98;Bakteriell resistens mot penicillin;Deleted 2010-12-31 Bakteriell resistens mot penicillin
+U800;;DGCAT;99M00;Bakteriell resistens mot penicillin;Deleted 2010-12-31 Bakteriell resistens mot penicillin
+U801;;DGPROP;15X98;Bakteriell resistens mot meticillin;Deleted 2010-12-31 Bakteriell resistens mot meticillin
+U801;;DGCAT;99M00;Bakteriell resistens mot meticillin;Deleted 2010-12-31 Bakteriell resistens mot meticillin
+U801;;MDC;99;Bakteriell resistens mot meticillin;Deleted 2010-12-31 Bakteriell resistens mot meticillin
+U808;;DGPROP;15X98;Bakteriell resistens mot andra penicillinrelaterade antibiotika;Deleted 2010-12-31 Bakteriell resistens mot andra penicillinrelaterade antibiotika
+U808;;DGCAT;99M00;Bakteriell resistens mot andra penicillinrelaterade antibiotika;Deleted 2010-12-31 Bakteriell resistens mot andra penicillinrelaterade antibiotika
+U808;;MDC;99;Bakteriell resistens mot andra penicillinrelaterade antibiotika;Deleted 2010-12-31 Bakteriell resistens mot andra penicillinrelaterade antibiotika
+U810;;DGCAT;99M00;Bakteriell resistens mot vankomycin;Deleted 2010-12-31 Bakteriell resistens mot vankomycin
+U810;;MDC;99;Bakteriell resistens mot vankomycin;Deleted 2010-12-31 Bakteriell resistens mot vankomycin
+U810;;DGPROP;15X98;Bakteriell resistens mot vankomycin;Deleted 2010-12-31 Bakteriell resistens mot vankomycin
+U818;;DGCAT;99M00;Bakteriell resistens mot vankomycinrelaterat antibiotikum;Deleted 2010-12-31 Bakteriell resistens mot vankomycinrelaterat antibiotikum
+U818;;MDC;99;Bakteriell resistens mot vankomycinrelaterat antibiotikum;Deleted 2010-12-31 Bakteriell resistens mot vankomycinrelaterat antibiotikum
+U818;;DGPROP;15X98;Bakteriell resistens mot vankomycinrelaterat antibiotikum;Deleted 2010-12-31 Bakteriell resistens mot vankomycinrelaterat antibiotikum
+U889;;DGCAT;99M00;Bakteriell resistens mot tvÜ eller flera antibiotika;Deleted 2010-12-31 Bakteriell resistens mot tvÜ eller flera antibiotika
+U889;;DGPROP;15X98;Bakteriell resistens mot tvÜ eller flera antibiotika;Deleted 2010-12-31 Bakteriell resistens mot tvÜ eller flera antibiotika
+U889;;MDC;99;Bakteriell resistens mot tvÜ eller flera antibiotika;Deleted 2010-12-31 Bakteriell resistens mot tvÜ eller flera antibiotika
+U898;;DGCAT;99M00;Bakteriell resistens mot annat specificerat antibiotikum;Deleted 2010-12-31 Bakteriell resistens mot annat specificerat antibiotikum
+U898;;MDC;99;Bakteriell resistens mot annat specificerat antibiotikum;Deleted 2010-12-31 Bakteriell resistens mot annat specificerat antibiotikum
+U898;;DGPROP;15X98;Bakteriell resistens mot annat specificerat antibiotikum;Deleted 2010-12-31 Bakteriell resistens mot annat specificerat antibiotikum
+U899;;DGPROP;15X98;Bakteriell resistens mot ospecificerat antibiotikum;Deleted 2010-12-31 Bakteriell resistens mot ospecificerat antibiotikum
+U899;;DGCAT;99M00;Bakteriell resistens mot ospecificerat antibiotikum;Deleted 2010-12-31 Bakteriell resistens mot ospecificerat antibiotikum
+U899;;MDC;99;Bakteriell resistens mot ospecificerat antibiotikum;Deleted 2010-12-31 Bakteriell resistens mot ospecificerat antibiotikum
+UA4200;;DGCAT;99M00;Fîrflyttning med oberoende;Deleted 2010-12-31 Fîrflyttning med oberoende
+UA4200;;MDC;99;Fîrflyttning med oberoende;Deleted 2010-12-31 Fîrflyttning med oberoende
+UA4201;;DGCAT;99M00;Fîrflyttning med modifierat oberoende;Deleted 2010-12-31 Fîrflyttning med modifierat oberoende
+UA4201;;MDC;99;Fîrflyttning med modifierat oberoende;Deleted 2010-12-31 Fîrflyttning med modifierat oberoende
+UA4202;;DGPROP;23F51;Fîrflyttning med delvis beroende;Deleted 2010-12-31 Fîrflyttning med delvis beroende
+UA4202;;MDC;99;Fîrflyttning med delvis beroende;Deleted 2010-12-31 Fîrflyttning med delvis beroende
+UA4202;;DGCAT;99M00;Fîrflyttning med delvis beroende;Deleted 2010-12-31 Fîrflyttning med delvis beroende
+UA4203;;MDC;99;Fîrflyttning med omfattande beroende;Deleted 2010-12-31 Fîrflyttning med omfattande beroende
+UA4203;;DGPROP;23F51;Fîrflyttning med omfattande beroende;Deleted 2010-12-31 Fîrflyttning med omfattande beroende
+UA4203;;DGPROP;23F52;Fîrflyttning med omfattande beroende;Deleted 2010-12-31 Fîrflyttning med omfattande beroende
+UA4203;;DGCAT;99M00;Fîrflyttning med omfattande beroende;Deleted 2010-12-31 Fîrflyttning med omfattande beroende
+UA4204;;DGPROP;23F52;Fîrflyttning med totalt beroende;Deleted 2010-12-31 Fîrflyttning med totalt beroende
+UA4204;;DGCAT;99M00;Fîrflyttning med totalt beroende;Deleted 2010-12-31 Fîrflyttning med totalt beroende
+UA4204;;MDC;99;Fîrflyttning med totalt beroende;Deleted 2010-12-31 Fîrflyttning med totalt beroende
+UA4204;;DGPROP;23F51;Fîrflyttning med totalt beroende;Deleted 2010-12-31 Fîrflyttning med totalt beroende
+UA4500;;DGCAT;99M00;GÜng med oberoende;Deleted 2010-12-31 GÜng med oberoende
+UA4500;;MDC;99;GÜng med oberoende;Deleted 2010-12-31 GÜng med oberoende
+UA4501;;DGCAT;99M00;GÜng med modifierat oberoende;Deleted 2010-12-31 GÜng med modifierat oberoende
+UA4501;;MDC;99;GÜng med modifierat oberoende;Deleted 2010-12-31 GÜng med modifierat oberoende
+UA4502;;DGCAT;99M00;GÜng med delvis beroende;Deleted 2010-12-31 GÜng med delvis beroende
+UA4502;;MDC;99;GÜng med delvis beroende;Deleted 2010-12-31 GÜng med delvis beroende
+UA4502;;DGPROP;23F61;GÜng med delvis beroende;Deleted 2010-12-31 GÜng med delvis beroende
+UA4503;;DGPROP;23F61;GÜng med omfattande beroende;Deleted 2010-12-31 GÜng med omfattande beroende
+UA4503;;DGPROP;23F62;GÜng med omfattande beroende;Deleted 2010-12-31 GÜng med omfattande beroende
+UA4503;;DGCAT;99M00;GÜng med omfattande beroende;Deleted 2010-12-31 GÜng med omfattande beroende
+UA4503;;MDC;99;GÜng med omfattande beroende;Deleted 2010-12-31 GÜng med omfattande beroende
+UA4504;;DGCAT;99M00;GÜng med totalt beroende;Deleted 2010-12-31 GÜng med totalt beroende
+UA4504;;MDC;99;GÜng med totalt beroende;Deleted 2010-12-31 GÜng med totalt beroende
+UA4504;;DGPROP;23F61;GÜng med totalt beroende;Deleted 2010-12-31 GÜng med totalt beroende
+UA4504;;DGPROP;23F62;GÜng med totalt beroende;Deleted 2010-12-31 GÜng med totalt beroende
+UA5300;;DGCAT;99M00;Toalettbesîk med oberoende;Deleted 2010-12-31 Toalettbesîk med oberoende
+UA5300;;MDC;99;Toalettbesîk med oberoende;Deleted 2010-12-31 Toalettbesîk med oberoende
+UA5301;;DGCAT;99M00;Toalettbesîk med modifierat oberoende;Deleted 2010-12-31 Toalettbesîk med modifierat oberoende
+UA5301;;MDC;99;Toalettbesîk med modifierat oberoende;Deleted 2010-12-31 Toalettbesîk med modifierat oberoende
+UA5302;;MDC;99;Toalettbesîk med delvis beroende;Deleted 2010-12-31 Toalettbesîk med delvis beroende
+UA5302;;DGPROP;23F31;Toalettbesîk med delvis beroende;Deleted 2010-12-31 Toalettbesîk med delvis beroende
+UA5302;;DGCAT;99M00;Toalettbesîk med delvis beroende;Deleted 2010-12-31 Toalettbesîk med delvis beroende
+UA5303;;MDC;99;Toalettbesîk med omfattande beroende;Deleted 2010-12-31 Toalettbesîk med omfattande beroende
+UA5303;;DGPROP;23F31;Toalettbesîk med omfattande beroende;Deleted 2010-12-31 Toalettbesîk med omfattande beroende
+UA5303;;DGPROP;23F32;Toalettbesîk med omfattande beroende;Deleted 2010-12-31 Toalettbesîk med omfattande beroende
+UA5303;;DGCAT;99M00;Toalettbesîk med omfattande beroende;Deleted 2010-12-31 Toalettbesîk med omfattande beroende
+UA5304;;DGPROP;23F32;Toalettbesîk med totalt beroende;Deleted 2010-12-31 Toalettbesîk med totalt beroende
+UA5304;;DGCAT;99M00;Toalettbesîk med totalt beroende;Deleted 2010-12-31 Toalettbesîk med totalt beroende
+UA5304;;MDC;99;Toalettbesîk med totalt beroende;Deleted 2010-12-31 Toalettbesîk med totalt beroende
+UA5304;;DGPROP;23F31;Toalettbesîk med totalt beroende;Deleted 2010-12-31 Toalettbesîk med totalt beroende
+UB5250;;MDC;99;Avfîringsfunktioner utan nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner utan nedsÑttning
+UB5250;;DGCAT;99M00;Avfîringsfunktioner utan nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner utan nedsÑttning
+UB5251;;DGCAT;99M00;Avfîringsfunktioner med lÑtt nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med lÑtt nedsÑttning
+UB5251;;MDC;99;Avfîringsfunktioner med lÑtt nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med lÑtt nedsÑttning
+UB5252;;DGPROP;23F41;Avfîringsfunktioner med mÜttlig nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med mÜttlig nedsÑttning
+UB5252;;DGCAT;99M00;Avfîringsfunktioner med mÜttlig nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med mÜttlig nedsÑttning
+UB5252;;MDC;99;Avfîringsfunktioner med mÜttlig nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med mÜttlig nedsÑttning
+UB5253;;DGPROP;23F41;Avfîringsfunktioner med svÜr nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med svÜr nedsÑttning
+UB5253;;DGCAT;99M00;Avfîringsfunktioner med svÜr nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med svÜr nedsÑttning
+UB5253;;MDC;99;Avfîringsfunktioner med svÜr nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med svÜr nedsÑttning
+UB5254;;DGCAT;99M00;Avfîringsfunktioner med total nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med total nedsÑttning
+UB5254;;MDC;99;Avfîringsfunktioner med total nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med total nedsÑttning
+UB5254;;DGPROP;23F41;Avfîringsfunktioner med total nedsÑttning;Deleted 2010-12-31 Avfîringsfunktioner med total nedsÑttning
+UB6200;;MDC;99;Urineringsfunktioner utan nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner utan nedsÑttning
+UB6200;;DGCAT;99M00;Urineringsfunktioner utan nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner utan nedsÑttning
+UB6201;;DGCAT;99M00;Urineringsfunktioner med lÑtt nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med lÑtt nedsÑttning
+UB6201;;MDC;99;Urineringsfunktioner med lÑtt nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med lÑtt nedsÑttning
+UB6202;;DGCAT;99M00;Urineringsfunktioner med mÜttlig nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med mÜttlig nedsÑttning
+UB6202;;MDC;99;Urineringsfunktioner med mÜttlig nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med mÜttlig nedsÑttning
+UB6202;;DGPROP;23F41;Urineringsfunktioner med mÜttlig nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med mÜttlig nedsÑttning
+UB6203;;DGPROP;23F41;Urineringsfunktioner med svÜr nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med svÜr nedsÑttning
+UB6203;;DGCAT;99M00;Urineringsfunktioner med svÜr nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med svÜr nedsÑttning
+UB6203;;MDC;99;Urineringsfunktioner med svÜr nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med svÜr nedsÑttning
+UB6204;;DGPROP;23F41;Urineringsfunktioner med total nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med total nedsÑttning
+UB6204;;DGCAT;99M00;Urineringsfunktioner med total nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med total nedsÑttning
+UB6204;;MDC;99;Urineringsfunktioner med total nedsÑttning;Deleted 2010-12-31 Urineringsfunktioner med total nedsÑttning
+UP7990;;DGCAT;99M00;Interaktioner och relationer vara oberoende;Deleted 2010-12-31 Interaktioner och relationer vara oberoende
+UP7990;;MDC;99;Interaktioner och relationer vara oberoende;Deleted 2010-12-31 Interaktioner och relationer vara oberoende
+UP7991;;DGCAT;99M00;Interaktioner och relationer vara modifierat oberoende;Deleted 2010-12-31 Interaktioner och relationer vara modifierat oberoende
+UP7991;;MDC;99;Interaktioner och relationer vara modifierat oberoende;Deleted 2010-12-31 Interaktioner och relationer vara modifierat oberoende
+UP7992;;MDC;99;Interaktioner och relationer vara delvis beroende;Deleted 2010-12-31 Interaktioner och relationer vara delvis beroende
+UP7992;;DGPROP;23F91;Interaktioner och relationer vara delvis beroende;Deleted 2010-12-31 Interaktioner och relationer vara delvis beroende
+UP7992;;DGCAT;99M00;Interaktioner och relationer vara delvis beroende;Deleted 2010-12-31 Interaktioner och relationer vara delvis beroende
+UP7993;;MDC;99;Interaktioner och relationer vara omfattande beroende;Deleted 2010-12-31 Interaktioner och relationer vara omfattande beroende
+UP7993;;DGPROP;23F91;Interaktioner och relationer vara omfattande beroende;Deleted 2010-12-31 Interaktioner och relationer vara omfattande beroende
+UP7993;;DGCAT;99M00;Interaktioner och relationer vara omfattande beroende;Deleted 2010-12-31 Interaktioner och relationer vara omfattande beroende
+UP7994;;DGCAT;99M00;Interaktioner och relationer  vara totalt beroende;Deleted 2010-12-31 Interaktioner och relationer  vara totalt beroende
+UP7994;;MDC;99;Interaktioner och relationer  vara totalt beroende;Deleted 2010-12-31 Interaktioner och relationer  vara totalt beroende
+UP7994;;DGPROP;23F91;Interaktioner och relationer  vara totalt beroende;Deleted 2010-12-31 Interaktioner och relationer  vara totalt beroende

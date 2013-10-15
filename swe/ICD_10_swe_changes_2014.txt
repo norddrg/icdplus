@@ -1,0 +1,154 @@
+IN/OUT	CODE	D_CODE	CODE_W	D_CODE_W	AST	TEXT	National comment				
+OUT	O702A					"Perinealbristning av 3:e graden; partiell sfinkterruptur"	Borttag 2013-12-31				
+OUT	O702B					"Perinealbristning av 3:e graden; total sfinkterruptur"	Borttag 2013-12-31				
+IN	A691A					Vincents angina	Ny kod 2014-01-01				
+IN	A691B					Ulcererande gingivostomatit (akut)	Ny kod 2014-01-01				
+IN	A691W					Annan Vincent-infektion	Ny kod 2014-01-01				
+IN	F323A					Uppgivenhetssyndrom	Ny kod 2014-01-01				
+IN	F323W					Annan sv†r depressiv episod med psykotiska symtom	Ny kod 2014-01-01				
+IN	J809A					L„tt ARDS (oxygeneringsindex (PaO2/FiO2) = 26?40 och PEEP 5 eller mer)	Ny kod 2014-01-01				
+IN	J809B					M†ttlig ARDS (oxygeneringsindex (PaO2/FiO2) = 13?25 och PEEP 5 eller mer)	Ny kod 2014-01-01				
+IN	J809C					Sv†r ARDS (oxygeneringsindex (PaO2/FiO2) mindre „n 13 och PEEP 5 eller mer)	Ny kod 2014-01-01				
+IN	J809X					ARDS utan uppgift om sv†righetsgrad	Ny kod 2014-01-01				
+IN	M058L					Erosiv reumatoid artrit, RF-positiv och ACPA-positiv	Ny kod 2014-01-01				
+IN	M058M					Erosiv reumatoid artrit, RF-positiv och ACPA-negativ	Ny kod 2014-01-01				
+IN	M058N					Erosiv reumatoid artrit, RF-positiv och ACPA ospecificerad	Ny kod 2014-01-01				
+IN	M059L					Reumatoid artrit, RF-positiv och ACPA-positiv	Ny kod 2014-01-01				
+IN	M059M					Reumatoid artrit, RF-positiv och ACPA-negativ	Ny kod 2014-01-01				
+IN	M059N					Reumatoid artrit, RF-positiv och ACPA ospecificerad	Ny kod 2014-01-01				
+IN	M060L					Reumatoid artrit, RF-negativ och ACPA-positiv	Ny kod 2014-01-01				
+IN	M060M					Reumatoid artrit, RF-negativ och ACPA-negativ	Ny kod 2014-01-01				
+IN	M060N					Reumatoid artrit, RF-negativ och ACPA ospecificerad	Ny kod 2014-01-01				
+IN	M068L					Erosiv reumatoid artrit, RF-negativ och ACPA-positiv	Ny kod 2014-01-01				
+IN	M068M					Erosiv reumatoid artrit, RF-negativ och ACPA-negativ	Ny kod 2014-01-01				
+IN	M068N					Erosiv reumatoid artrit, RF-negativ och ACPA ospecificerad	Ny kod 2014-01-01				
+IN	M350A					Prim„rt Sj”grens syndrom	Ny kod 2014-01-01				
+IN	M350B					Sekund„rt Sj”grens syndrom	Ny kod 2014-01-01				
+IN	N498A					Fourniers gangr„n i de manliga k”nsorganen	Ny kod 2014-01-01				
+IN	N498W					Annan specificerad inflammation i de manliga k”nsorganen	Ny kod 2014-01-01				
+IN	N768A					Fourniers gangr„n i vagina och vulva	Ny kod 2014-01-01				
+IN	N768W					Annan inflammation i vagina och vulva	Ny kod 2014-01-01				
+IN	O350A					V†rd av blivande moder f”r (misst„nkt) fostermissbildning i CNS: strukturell intrakraniell missbildning, hemisf„rer	Ny kod 2014-01-01				
+IN	O350B					V†rd av blivande moder f”r (misst„nkt) fostermissbildning i CNS: strukturell intrakraniell missbildning, medellinjestrukturer, skallbas	Ny kod 2014-01-01				
+IN	O350C					V†rd av blivande moder f”r (misst„nkt) fostermissbildning i CNS: strukturell intrakraniell missbildning, bakre skallgropen	Ny kod 2014-01-01				
+IN	O350D					V†rd av blivande moder f”r (misst„nkt) fostermissbildning i CNS: hydrocefalus (utan samband med neuralr”rsdefekt)	Ny kod 2014-01-01				
+IN	O350E					V†rd av blivande moder f”r (misst„nkt) fostermissbildning i CNS: neuralr”rsdefekt (med eller utan hydrocefalus)	Ny kod 2014-01-01				
+IN	O350W					V†rd av blivande moder f”r annan specificerad (misst„nkt) fostermissbildning i CNS	Ny kod 2014-01-01				
+IN	O351A					V†rd av blivande moder f”r kromosomrubbning hos fostret: trisomi 21	Ny kod 2014-01-01				
+IN	O351B					V†rd av blivande moder f”r kromosomrubbning hos fostret: trisomi 13	Ny kod 2014-01-01				
+IN	O351C					V†rd av blivande moder f”r kromosomrubbning hos fostret: trisomi 18	Ny kod 2014-01-01				
+IN	O351D					V†rd av blivande moder f”r kromosomrubbning hos fostret: k”nskromosomavvikelse	Ny kod 2014-01-01				
+IN	O351E					V†rd av blivande moder f”r kromosomrubbning hos fostret: obalanserad translokation	Ny kod 2014-01-01				
+IN	O351W					V†rd av blivande moder f”r annan specificerad kromosomrubbning hos fostret	Ny kod 2014-01-01				
+IN	O358A					V†rd av blivande moder f”r (misst„nkt) fosterskada: kraniofaciala missbildningar	Ny kod 2014-01-01				
+IN	O358B					V†rd av blivande moder f”r (misst„nkt) fosterskada: spaltmissbildning i l„pp, k„ke och/eller gom	Ny kod 2014-01-01				
+IN	O358C					V†rd av blivande moder f”r (misst„nkt) fosterskada: nackhygrom	Ny kod 2014-01-01				
+IN	O358D					V†rd av blivande moder f”r (misst„nkt) fosterskada: intratorakal missbildning (exkl. hj„rta)	Ny kod 2014-01-01				
+IN	O358E					V†rd av blivande moder f”r (misst„nkt) fosterskada: hj„rt-k„rlmissbildning	Ny kod 2014-01-01				
+IN	O358F					V†rd av blivande moder f”r (misst„nkt) fosterskada: diafragmabr†ck	Ny kod 2014-01-01				
+IN	O358G					V†rd av blivande moder f”r (misst„nkt) fosterskada: missbildning i gastrointestinalkanalen	Ny kod 2014-01-01				
+IN	O358H					V†rd av blivande moder f”r (misst„nkt) fosterskada: gastroschis	Ny kod 2014-01-01				
+IN	O358J					V†rd av blivande moder f”r (misst„nkt) fosterskada: omfalocele	Ny kod 2014-01-01				
+IN	O358K					V†rd av blivande moder f”r (misst„nkt) fosterskada: njur- och urinv„gsmissbildningar	Ny kod 2014-01-01				
+IN	O358L					V†rd av blivande moder f”r (misst„nkt) fosterskada: skelettmissbildningar (exkl. extremitetsdefekter)	Ny kod 2014-01-01				
+IN	O358M					V†rd av blivande moder f”r (misst„nkt) fosterskada: extremitetsdefekter (inkl. klumpfot)	Ny kod 2014-01-01				
+IN	O358N					V†rd av blivande moder f”r (misst„nkt) fosterskada: tum”r	Ny kod 2014-01-01				
+IN	O358W					V†rd av blivande moder f”r annan (misst„nkt) specificerad abnormitet och skada p† fostret	Ny kod 2014-01-01				
+IN	O368A					V†rd av blivande moder f”r annat specificerat (misst„nkt) problem hos fostret: genetisk ultraljudsmark”r, s.k. soft marker (exkl. strukturella missbildningar)	Ny kod 2014-01-01				
+IN	O368B					V†rd av blivande moder f”r annat specificerat (misst„nkt) problem hos fostret: fetal hj„rtarytmi	Ny kod 2014-01-01				
+IN	O368Wÿ					V†rd av blivande moder f”r annat k„nt eller misst„nkt problem hos fostret	Ny kod 2014-01-01				
+IN	O702C					"Perinealbristning av tredje graden; skada som omfattar mindre „n halva externa analsfinktern"	Ny kod 2014-01-01				
+IN	O702D					"Perinealbristning av tredje graden; skada som omfattar mer „n halva externa analsfinktern (inkl. total ruptur av externa sfinktern utan engagemang av interna sfinktern)"	Ny kod 2014-01-01				
+IN	O702E					"Perinealbristning av tredje graden; skada som omfattar b†de externa och interna analsfinktern"	Ny kod 2014-01-01				
+IN	Z658A					Problem som har samband med flyktingskap och asyls”kande	Ny kod 2014-01-01				
+IN	Z658W					Andra specificerade problem som har samband med psykosociala f”rh†llanden	Ny kod 2014-01-01				
+IN	U822A					ESBL-A (klassisk ESBL)	Ny kod 2014-01-01				
+IN	U822B					ESBL-M (ESBL av pAmpC-typ)	Ny kod 2014-01-01				
+IN	U822C					ESBL-CARBA	Ny kod 2014-01-01				
+IN	U822W					Resistens p† grund av betalaktamaser med utvidgat spektrum (ESBL) av annan typ	Ny kod 2014-01-01				
+OUT	UA3298					Kommunicera, att vara mottagare, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA3298					Kommunicera, att vara mottagare, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA3299					Kommunicera, att vara mottagare, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA3299					Kommunicera, att vara mottagare, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA3498					Kommunicera, att vara s„ndare, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA3498					Kommunicera, att vara s„ndare, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA3499					Kommunicera, att vara s„ndare, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA3499					Kommunicera, att vara s„ndare, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA41A8					Ligga ner, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA41A8					Ligga ner, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA41A9					Ligga ner, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA41A9					Ligga ner, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA41D8					Sitta, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA41D8					Sitta, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA41D9					Sitta, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA41D9					Sitta, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA4408					Handens finmotorik, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA4408					Handens finmotorik, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA4409					Handens finmotorik, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA4409					Handens finmotorik, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA45A8					G† kortare str„ckor, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA45A8					G† kortare str„ckor, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA45A9					G† kortare str„ckor, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA45A9					G† kortare str„ckor, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA4658					F”rflytta sig med hj„lp av utrustning, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA4658					F”rflytta sig med hj„lp av utrustning, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA4659					F”rflytta sig med hj„lp av utrustning, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA4659					F”rflytta sig med hj„lp av utrustning, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA5108					Tv„tta sig, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA5108					Tv„tta sig, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA5109					Tv„tta sig, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA5109					Tv„tta sig, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA5208					Kroppsv†rd, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA5208					Kroppsv†rd, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA5209					Kroppsv†rd, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA5209					Kroppsv†rd, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA53A8					Kontrollera urinering, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA53A8					Kontrollera urinering, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA53A9					Kontrollera urinering, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA53A9					Kontrollera urinering, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA53B8					Kontrollera avf”ring, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA53B8					Kontrollera avf”ring, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA53B9					Kontrollera avf”ring, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA53B9					Kontrollera avf”ring, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA5408					Kl„ sig, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA5408					Kl„ sig, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA5409					Kl„ sig, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA5409					Kl„ sig, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA5508					Žta, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA5508					Žta, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA5509					Žta, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA5509					Žta, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UA5608					Dricka, ej specificerat	Ny kodtex 2014-01-01				
+IN	UA5608					Dricka, aktivitetsbegr„nsning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UA5609					Dricka, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UA5609					Dricka, aktivitetsbegr„nsning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UB1148					Orienteringsfunktioner, ej specificerat	Ny kodtex 2014-01-01				
+IN	UB1148					Orienteringsfunktioner, funktionsneds„ttning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UB1149					Orienteringsfunktioner, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UB1149					Orienteringsfunktioner, funktionsneds„ttning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UB1448					Minnesfunktioner, ej specificerat	Ny kodtex 2014-01-01				
+IN	UB1448					Minnesfunktioner, funktionsneds„ttning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UB1449					Minnesfunktioner, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UB1449					Minnesfunktioner, funktionsneds„ttning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UB1648					H”gre kognitiva funktioner, ej specificerat	Ny kodtex 2014-01-01				
+IN	UB1648					H”gre kognitiva funktioner, funktionsneds„ttning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UB1649					H”gre kognitiva funktioner, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UB1649					H”gre kognitiva funktioner, funktionsneds„ttning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	UP7108					Grundl„ggande mellanm„nskliga interaktioner, ej specificerat	Ny kodtex 2014-01-01				
+IN	UP7108					Grundl„ggande mellanm„nskliga interaktioner, delaktighetsinskr„nkning ej specificerad	Ny kodtex 2014-01-01				
+OUT	UP7109					Grundl„ggande mellanm„nskliga interaktioner, ej till„mpbart	Ny kodtex 2014-01-01				
+IN	UP7109					Grundl„ggande mellanm„nskliga interaktioner, delaktighetsinskr„nkning ej till„mpbar	Ny kodtex 2014-01-01				
+OUT	Y0700					Misshandel ut”vad av make eller partner-idrott	Ny kodtext 2014-01-01				
+IN	Y0700					Misshandel ut”vad av make/maka eller partner-idrott	Ny kodtext 2014-01-01				
+OUT	Y0701					Misshandel ut”vad av make eller partner-lek,fritid	Ny kodtext 2014-01-01				
+IN	Y0701					Misshandel ut”vad av make/maka eller partner-lek,fritid	Ny kodtext 2014-01-01				
+OUT	Y0702					Misshandel ut”vad av make eller partner-f”rv„rvsarbete	Ny kodtext 2014-01-01				
+IN	Y0702					Misshandel ut”vad av make/maka eller partner-f”rv„rvsarbete	Ny kodtext 2014-01-01				
+OUT	Y0703					Misshandel ut”vad av make eller partner-annan syssels„ttning	Ny kodtext 2014-01-01				
+IN	Y0703					Misshandel ut”vad av make/maka eller partner-annan syssels„ttning	Ny kodtext 2014-01-01				
+OUT	Y0704					Misshandel ut”vad av make eller partner-vitalaktivitet	Ny kodtext 2014-01-01				
+IN	Y0704					Misshandel ut”vad av make/maka eller partner-vitalaktivitet	Ny kodtext 2014-01-01				
+OUT	Y0708					Misshandel ut”vad av make eller partner-andra aktiviteter	Ny kodtext 2014-01-01				
+IN	Y0708					Misshandel ut”vad av make/maka eller partner-andra aktiviteter	Ny kodtext 2014-01-01				
+OUT	Y0709					Misshandel ut”vad av make eller partner-ospec aktiviteter	Ny kodtext 2014-01-01				
+IN	Y0709					Misshandel ut”vad av make/maka eller partner-ospec aktiviteter	Ny kodtext 2014-01-01				

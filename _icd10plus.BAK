@@ -1,0 +1,29 @@
+procedure _ICD10PLUS
+	set default to ..\icd10plus
+	PUSH KEY CLEAR
+	CLOSE DATABASES
+	CLEAR WINDOWS
+	set date YMD
+	set status on
+	public max_y, max_x, max_foty, max_fosi, p_logluku, p_class, p_ord
+	p_ord=' '
+	p_class=.f.
+	p_logluku=.f.
+	max_y=srows()-3
+	max_x=scols()-4
+	max_foty='Small Font'
+	max_fosi=6
+	if max_x>100
+		max_foty='Arial'
+		max_fosi=8
+	endif
+	public min_y, min_x
+	min_y=INT(max_y/6)
+	if min_y<5
+		min_y=5
+	endif
+	min_x=INT(max_x/3)
+	DEFINE WINDOW naytto FROM 10,5 to max_y-2, max_x-2 FONT  max_foty,  max_fosi
+	Activate WINDOW naytto
+	DO ..\icd10plus\icd10plus
+	return
